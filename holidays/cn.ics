@@ -2,8 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//aeiou.now//Annual holiday calendar//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Tiongkok 2026
-X-WR-CALDESC:Tiongkok memiliki 7 hari libur nasional pada 2026.
+X-WR-CALNAME:Tiongkok
+X-WR-CALDESC:Tiongkok memiliki 7 hari libur nasional pada 2026. Tiongkok me
+ miliki 7 hari libur nasional pada 2027. Tiongkok memiliki 7 hari libur nas
+ ional pada 2028.
 REFRESH-INTERVAL;VALUE=DURATION:P1W
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
