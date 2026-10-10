@@ -1,0 +1,1042 @@
+# aeiou.now
+
+> Lihat bagaimana topik sehari-hari yang sama dijalani di berbagai negara, kota, dan keluarga—dengan tanggal, sumber, dan perbedaan yang tetap terlihat.
+
+aeiou.now dimulai dari dua pertanyaan: apa sebenarnya hal ini, dan apa yang berubah ketika tempatnya berbeda? Lihat tanggal dan aturannya dulu, lalu bandingkan kebiasaan setempat, sumber, dan pengalaman orang lain.
+
+## Navigasi situs
+
+- [Beranda](https://id.aeiou.now/)
+- [Topik hangat](https://id.aeiou.now/topics/today/)
+- [Info sekitar](https://id.aeiou.now/topics/nearby/)
+- [Info acara](https://id.aeiou.now/topics/events/)
+- [Peringkat 24 jam](https://id.aeiou.now/rankings/24h/)
+- [Peringkat 72 jam](https://id.aeiou.now/rankings/72h/)
+- [Peringkat 7 hari](https://id.aeiou.now/rankings/7d/)
+- [Peringkat 1 bulan](https://id.aeiou.now/rankings/1m/)
+- [Peringkat 3 bulan](https://id.aeiou.now/rankings/3m/)
+- [Peringkat 1 tahun](https://id.aeiou.now/rankings/1y/)
+- [Kumpulan Pertanyaan Dunia](https://id.aeiou.now/questions/)
+- [Tentang](https://id.aeiou.now/about/)
+- [sitemap.xml](https://id.aeiou.now/sitemap.xml)
+
+## Topik
+
+- [Hari Valentine](https://id.aeiou.now/topic/affection-and-reciprocity/): Hari Valentine 2027 di Indonesia jatuh pada 14 Februari; tanggal ini bukan hari libur nasional, dan beberapa dinas pendidikan daerah justru menerbitkan imbauan agar sekolah tidak merayakannya.
+- [Tanya Jawab Lintas Negara](https://id.aeiou.now/topic/ask-the-world/): Ingin tahu bagaimana orang di Taiwan, Jepang, Amerika Serikat, India, Indonesia, atau Brasil bersekolah, berbelanja, merayakan hari penting, atau menyelesaikan urusan sehari-hari?
+- [Musim Kembali ke Sekolah](https://id.aeiou.now/topic/back-to-school/): Tidak ada satu tanggal masuk sekolah yang berlaku di semua tempat: tahun ajaran Jepang berjalan 1 April–31 Maret, tahun administratif Taiwan dimulai 1 Agustus tetapi murid biasanya masuk pada awal September, sedangkan Tiongkok daratan menetapkan awal musim gugur lewat kalender daerah pada akhir Agustus atau awal September.
+- [Festival Bir](https://id.aeiou.now/topic/beer-festivals/): Perayaan yang sama, dibawa keluar dari Jerman, tetapi posisi negara di dalamnya berbeda-beda.
+- [Ulang Tahun dan Doa Baik](https://id.aeiou.now/topic/birthdays-and-blessings/): Ulang tahun bukan hanya kue: Taiwan memakai usia genap dan hitungan tradisional, Jepang mendorong peralihan dari hitungan tradisional lewat undang-undang tetapi tetap mengenal tonggak seperti kanreki, dan usia 16, 18, serta 21 di Amerika Serikat berkaitan dengan hak yang berbeda.
+- [Perawatan Keluarga dan Antargenerasi](https://id.aeiou.now/topic/caregiving-across-generations/): Perawatan keluarga bukan hanya soal tinggal serumah, tetapi juga soal siapa yang bertanggung jawab dan ke mana dukungan bisa diminta.
+- [Karnaval](https://id.aeiou.now/topic/carnival/): Karnaval bukan hari libur resmi di Brasil.
+- [Hari Anak](https://id.aeiou.now/topic/childrens-day/): Enam tempat menempatkan Hari Anak pada enam tanggal berbeda, tersebar dari April hingga November, dan 'siapa yang libur' pun berbeda: Taiwan meliburkan semua orang, Tiongkok daratan memberi libur hanya kepada anak di bawah empat belas tahun, Jepang menuliskan rasa terima kasih kepada ibu ke dalam tujuan hukumnya, Indonesia menjadikannya peringatan berdasarkan Keputusan Presiden dengan tema tahunan dari kementerian, Brasil berbagi tanggal dengan santo pelindung negara, dan India mengaitkannya dengan hari lahir Nehru.
+- [Hari-hari lain dalam kalender Kristen](https://id.aeiou.now/topic/christian-calendar-days/): Di luar Natal dan Paskah, perhitungan Paskah yang sama masih melahirkan serangkaian hari: Rabu Abu, Jumat Agung, Kenaikan, Pentakosta, dan Corpus Christi.
+- [Natal](https://id.aeiou.now/topic/christmas/): 25 Desember bukan hal yang sama di tujuh tempat.
+- [Upacara Kedewasaan](https://id.aeiou.now/topic/coming-of-age/): Usia dewasa menurut hukum dan upacara kedewasaan bukanlah garis yang sama.
+- [Wajib belajar: dari usia berapa sampai berapa — dan kewajiban siapa](https://id.aeiou.now/topic/compulsory-education/): Undang-Undang Pendidikan Nasional Taiwan menetapkan enam sampai lima belas tahun, sembilan tahun, dan menyerahkan pemaksaan pendaftarannya kepada undang-undang tersendiri.
+- [Diwali](https://id.aeiou.now/topic/diwali/): Diwali adalah rangkaian lima hari, bukan satu hari.
+- [Festival Perahu Naga](https://id.aeiou.now/topic/dragon-boat-festival/): Hari kelima bulan kelima penanggalan lunar adalah hari libur di Taiwan maupun Tiongkok daratan, sementara Jepang memindahkan 'lima-lima' yang sama ke kalender Gregorius dan menjadikannya hari anak menurut undang-undang.
+- [Paskah](https://id.aeiou.now/topic/easter/): Kedudukan kelembagaan Paskah sangat berbeda di empat tempat ini, dan arahnya tidak seperti yang diduga banyak orang: Indonesia yang berpenduduk mayoritas Muslim menetapkan empat peringatan Kristen sebagai hari libur nasional — Jumat Agung, Paskah, Kenaikan, dan Natal; Amerika Serikat yang mayoritas Kristen tidak menjadikan satu pun sebagai hari libur federal kecuali Natal; Brasil menyerahkan keputusan hari libur keagamaan kepada dewan kota dengan batas empat; dan daftar nasional India memuat Jumat Agung, bukan Minggu Paskah.
+- [Iduladha](https://id.aeiou.now/topic/eid-al-adha/): Satu tanggal dalam kalender Islam, empat perlakuan kelembagaan yang berbeda: Indonesia menjadikannya hari libur nasional dan menambah cuti bersama; India memasukkannya ke daftar hari libur nasional; Amerika Serikat tidak punya hari libur federal tetapi sekolah negeri Kota New York tutup; dan di Brasil ia bahkan belum menjadi tanggal peringatan resmi — komite Senat baru menyetujui usul memasukkan hari raya Islam ke kalender nasional pada 2024.
+- [Hari Lanjut Usia dan Hari Kakek-Nenek](https://id.aeiou.now/topic/elders-day/): Ketujuh pasar menyisihkan satu hari bagi warganya yang paling sepuh, dan tak ada dua di antaranya yang menaruhnya pada tanggal yang sama.
+- [Hari-hari Emansipasi](https://id.aeiou.now/topic/emancipation-and-abolition/): Dua masyarakat budak terbesar di benua Amerika sama-sama baru pada dekade 2020-an memasukkan penghapusan perbudakan ke dalam daftar hari libur nasional: Amerika Serikat pada 2021, Brasil pada 2023 — lebih dari satu setengah abad setelah perbudakan berakhir secara hukum.
+- [Ujian masuk universitas: ujian apa, siapa penyelenggaranya, dan apa lagi yang dinilai](https://id.aeiou.now/topic/entrance-exams/): Taiwan mengikuti 學測 dan 分科測驗 (keduanya diselenggarakan CEEC) lewat tiga jalur dengan aturan berbeda: Jalur Aplikasi membatasi nilai ujian maksimal setengah dari skor akhir, sisanya dinilai dari portofolio dan wawancara; Jalur Penempatan murni mengurutkan berdasarkan nilai ujian; dan Rekomendasi Bintang berdasarkan peringkat sekolah semata, tanpa penempatan berbasis nilai ujian.
+- [Hari Lingkungan](https://id.aeiou.now/topic/environment-days/): Hari-hari lingkungan hampir tidak pernah datang bersama hari libur.
+- [Ekuinoks, Solstis, dan Hari Libur](https://id.aeiou.now/topic/equinox-and-seasonal-turns/): Inilah satu-satunya jenis hari besar yang tanggalnya tidak dipilih siapa pun.
+- [Musim ujian masuk](https://id.aeiou.now/topic/exam-season/): Setiap negara yang dibandingkan di sini menjalankan ujian nasional yang menentukan kursi di perguruan tinggi, tetapi seberapa rapat keputusan itu dipadatkan sangat berbeda.
+- [Perpisahan dan Pemakaman](https://id.aeiou.now/topic/farewells-and-funerals/): Pemakaman berjalan menurut dua waktu: waktu administratif dan waktu keluarga atau agama.
+- [Hari Ayah](https://id.aeiou.now/topic/fathers-day/): Hari Ayah berada pada tiga tanggal berbeda di empat tempat, dan asal-usulnya sama sekali tidak sejenis: Taiwan memilih 8 Agustus karena 'delapan-delapan' terdengar seperti kata untuk ayah; Amerika Serikat butuh hampir enam puluh tahun sampai mengesahkannya pada 1972; dan versi Brasil diciptakan pada 1953 oleh seorang orang periklanan untuk mengisi kekosongan paruh kedua tahun ritel.
+- [Pendiri dan Pemimpin Bangsa](https://id.aeiou.now/topic/founders-and-national-leaders/): Di Indonesia, Hari Kartini (21 April) ditetapkan lewat Keppres No. 108 Tahun 1964 sebagai hari besar nasional, tetapi ia tidak ada dalam tujuh belas hari libur nasional 2026; yang benar-benar meliburkan justru Hari Lahir Pancasila (1 Juni), yang menamai sebuah gagasan, bukan orang yang mengucapkannya.
+- [Hantu, Leluhur, dan Kenangan](https://id.aeiou.now/topic/ghosts-ancestors-and-remembrance/): Tidak semua keluarga atau komunitas menjalaninya dengan cara yang sama.
+- [Musim Kelulusan](https://id.aeiou.now/topic/graduation-season/): Musim kelulusan tidak jatuh pada satu bulan yang sama: Jepang lulus pada Maret sebelum tahun ajaran April, Taiwan dan Tiongkok daratan umumnya Juni–Juli, distrik Amerika Serikat Mei–Juni, India sekitar Maret–Mei bersamaan dengan hasil ujian dewan, Indonesia Mei–Juni sebelum tahun ajaran Juli, dan Brasil Desember.
+- [Halloween](https://id.aeiou.now/topic/halloween/): Halloween pada 31 Oktober bukan hari libur resmi di satu pun dari tujuh pasar ini.
+- [Panen dan Rasa Syukur](https://id.aeiou.now/topic/harvest-and-gratitude/): Apakah panen menjadi hari raya, dan siapa yang berhak mendefinisikannya, dijawab dengan lima cara berbeda: Amerika Serikat membangun hari libur federal di seputar meja makan keluarga; Pongal di India ditentukan kalender Tamil dan masuknya matahari ke Makara, dan periuk nasinya adalah ritualnya sendiri; Brasil mengaitkannya dengan tiga hari santo di bulan Juni; Tiongkok daratan menciptakan hari raya petani lewat persetujuan Dewan Negara pada 2018; dan Jepang menulis ulang ritual panen kekaisaran pra-perang menjadi hari nasional untuk berterima kasih atas kerja.
+- [Jaminan kesehatan: siapa yang wajib, dan siapa yang membayar](https://id.aeiou.now/topic/health-coverage/): Undang-Undang Asuransi Kesehatan Nasional Taiwan menyatakan kepesertaan wajib sejak pasal pertamanya, dimulai Maret 1995, dengan iuran terbagi pemberi kerja 60%, tertanggung 30%, pemerintah 10%.
+- [Mudik dan Reuni](https://id.aeiou.now/topic/homecoming-and-reunion/): Pulang kampung bukan pola satu hari raya: di Taiwan gelombang utamanya Tahun Baru Imlek, di Jepang pergantian tahun dan Obon, di Tiongkok chunyun sekitar empat puluh hari di sekitar Festival Musim Semi, sedangkan Thanksgiving menjadi gelombang terbesar di Amerika Serikat.
+- [Masyarakat Adat dan Memori Kolonial](https://id.aeiou.now/topic/indigenous-and-colonial-memory/): Indonesia mengakui masyarakat adat di konstitusi tetapi tidak di kalender: Pasal 18B ayat (2) UUD 1945, hasil Amandemen Kedua yang disahkan Agustus 2000, menyatakan negara mengakui dan menghormati kesatuan-kesatuan masyarakat hukum adat beserta hak-hak tradisionalnya — namun undang-undang pelaksananya, RUU Masyarakat Hukum Adat, masih tertahan di DPR setelah masuk Prolegnas 2024–2029, dan tidak ada hari nasional untuk itu.
+- [Hari-hari lain dalam kalender Hijriah](https://id.aeiou.now/topic/islamic-calendar-days/): Selain Ramadan dan dua hari raya Id, kalender Hijriah masih memuat beberapa hari: Tahun Baru pada 1 Muharam, Asyura pada 10 Muharam, kelahiran Nabi, dan Isra Mikraj.
+- [Hari-hari dalam kalender Yahudi](https://id.aeiou.now/topic/jewish-calendar-days/): Rosh Hashanah, Yom Kippur, Paskah Yahudi, dan Hanukkah tidak menjadi hari libur nasional di negara mana pun — termasuk Amerika Serikat, tempat komunitas Yahudi terbesar di luar Israel, yang hari liburnya bagi pegawai federal ditetapkan undang-undang 5 U.S.C. 6103 dan hanya memuat satu hari raya keagamaan, yaitu Natal.
+- [Hari Buruh](https://id.aeiou.now/topic/labour-day/): 1 Mei adalah Hari Buruh Internasional, tetapi tidak ada dua dari tujuh tempat ini yang memperlakukannya sama: Taiwan baru menjadikannya libur bagi semua orang lewat undang-undang baru pada 2025, Tiongkok daratan memberi dua hari sejak perubahan 2024, Brasil dan Indonesia mencantumkannya sebagai hari libur nasional, daftar nasional India sama sekali tidak memuatnya, Jepang tetap bekerja pada 1 Mei sementara hari-hari di sekitarnya libur, dan Amerika Serikat menaruh Hari Buruhnya pada September.
+- [Festival Lampion](https://id.aeiou.now/topic/lantern-festival/): Tanggal bulan yang sama menghadirkan pemandangan berbeda.
+- [Libur Panjang](https://id.aeiou.now/topic/long-holiday-weeks/): Tujuh tempat sama-sama punya deretan hari libur yang menyambung, dan tidak satu pun merakitnya dengan cara yang sama.
+- [Pertengahan Musim Gugur dan Menikmati Bulan](https://id.aeiou.now/topic/mid-autumn-and-moon-viewing/): Di sekitar purnama yang sama ada empat cara berbeda: Taiwan dan Tiongkok daratan libur, makan kue bulan, dan berkumpul bersama keluarga; komunitas etnis Korea di Yanbian, Tiongkok, menjalaninya sebagai Chuseok yang dimulai dari ziarah makam; dan Jepang tidak libur sama sekali, memperlakukannya sebagai malam astronomi dan musim — di sana observatorium nasional menegaskan bahwa 'bulan panen' sering bukan purnama malam itu.
+- [Ada yang wajib militer, ada yang cukup mendaftar, ada yang hanya tertulis di konstitusi](https://id.aeiou.now/topic/military-service/): Pasal 1 Undang-Undang Wajib Militer Taiwan hanya satu kalimat — setiap warga negara laki-laki berkewajiban menjalani dinas — dan Pasal 16 menetapkan dinas aktif wajib selama satu tahun.
+- [Upah minimum: siapa yang menetapkan, seberapa sering, dan siapa yang dilindungi](https://id.aeiou.now/topic/minimum-wage/): Undang-Undang Upah Minimum Taiwan (disahkan 2023) ditetapkan setiap tahun oleh Dewan Peninjauan Upah Minimum beranggotakan 21 orang yang bersidang pada kuartal ketiga; untuk 2026 angkanya NT$29.500 per bulan atau NT$196 per jam — satu angka nasional tunggal, tanpa perbedaan wilayah.
+- [Hari Ibu](https://id.aeiou.now/topic/mothers-day/): Empat tempat merayakan Hari Ibu pada Minggu kedua bulan Mei; Indonesia menempatkannya pada 22 Desember — dan di sini ia bukan hari untuk berterima kasih kepada ibu, melainkan peringatan politik atas Kongres Perempuan Indonesia pertama tahun 1928.
+- [Pindah Rumah dan Selamatan Rumah](https://id.aeiou.now/topic/moving-home/): Pindah rumah memiliki dua pertanyaan berbeda: apakah alamat harus didaftarkan ke satu lembaga, dan bagaimana keluarga menandai rumah baru.
+- [Hari Nasional](https://id.aeiou.now/topic/national-days/): Tujuh hari nasional memperingati jenis peristiwa yang berbeda: Amerika Serikat, Brasil, Indonesia, dan India menandai momen lepas dari kekuasaan kolonial atau memproklamasikan kemerdekaan; Tiongkok daratan menandai berdirinya sebuah negara; Taiwan menandai pemberontakan yang mengakhiri kekaisaran; dan Hari Berdirinya Negara Jepang sama sekali tidak punya peristiwa sejarah bertanggal — ia bersandar pada penobatan legendaris.
+- [Tahun Baru](https://id.aeiou.now/topic/new-year/): 'Tahun Baru' bukan satu hari yang sama. Taiwan dan Tiongkok daratan merayakan hari pertama bulan pertama penanggalan lunar; Jepang, Amerika Serikat, Brasil, dan Indonesia libur pada 1 Januari; sedangkan daftar hari libur nasional India sama sekali tidak memuat 1 Januari — di sana tahun baru jatuh pada Maret atau April dan bernama berbeda di tiap negara bagian.
+- [Bayi Baru Lahir dan Selapanan](https://id.aeiou.now/topic/newborn-and-full-moon/): Kelahiran bayi mengikuti dua waktu: pendaftaran kelahiran dan perayaan keluarga.
+- [Bahasa resmi: di konstitusi, di undang-undang, atau tidak di mana pun](https://id.aeiou.now/topic/official-languages/): Konstitusi India menyediakan satu bagian penuh untuk bahasa; Pasal 343 menetapkan bahasa Hindi beraksara Devanagari sebagai bahasa resmi Uni, lengkap dengan klausul peralihan lima belas tahun untuk bahasa Inggris.
+- [Cuti berbayar berapa hari, lembur dihitung bagaimana — apa bedanya tujuh negara](https://id.aeiou.now/topic/paid-leave-and-overtime/): Pasal 38 Undang-Undang Standar Ketenagakerjaan Taiwan membagi cuti tahunan menjadi enam tingkat: 3 hari pada enam bulan, 7 hari pada satu tahun, 10 hari pada dua tahun, 14 hari per tahun untuk tiga hingga lima tahun, 15 hari per tahun untuk lima hingga sepuluh tahun, dan tambahan 1 hari per tahun setelah sepuluh tahun, dengan batas 30 hari; cuti yang tidak diambil tidak hangus — Pasal 38 ayat 4 mewajibkan pemberi kerja membayar upahnya.
+- [Setelah anak lahir, berapa hari yang diberikan hukum](https://id.aeiou.now/topic/parental-leave/): Undang-Undang Standar Ketenagakerjaan Taiwan memberi cuti melahirkan delapan minggu, dibayar penuh setelah enam bulan masa kerja.
+- [Kesiapsiagaan Hewan Peliharaan dan Bencana](https://id.aeiou.now/topic/pet-preparedness/): Kesiapsiagaan hewan peliharaan bukan sekadar membeli makanan tambahan.
+- [Hewan Peliharaan dan Kehidupan Keluarga](https://id.aeiou.now/topic/pets-and-family/): Menyebut hewan sebagai keluarga tidak membuatnya menjadi manusia di mata hukum.
+- [Lamaran dan Pertunangan](https://id.aeiou.now/topic/proposals-and-engagements/): Pertunangan bukanlah perkawinan. Taiwan menetapkan pertunangan pada usia 17 dan perkawinan pada 18, serta janji menikah tidak dapat dipaksakan; Indonesia setelah perubahan 2019 menetapkan usia minimum menikah 19 untuk kedua jenis kelamin, sementara lamaran lebih dulu menjadi pengakuan terbuka antar-keluarga.
+- [Ramadan dan Idulfitri](https://id.aeiou.now/topic/ramadan-and-eid/): Hari pertama Ramadan dan Idulfitri bukan jawaban tanggal yang sama.
+- [Agama dan negara: seberapa jauh konstitusi menaruh keduanya](https://id.aeiou.now/topic/religion-and-the-state/): Baris pertama Pasal 29 UUD 1945 berbunyi bahwa negara berdasar atas Ketuhanan Yang Maha Esa.
+- [Uang jaminan sewa dan kekuasaan pemilik rumah: berapa bulan, dan seberapa mudah menghentikan sewa](https://id.aeiou.now/topic/renting-a-home/): Undang-Undang Pengembangan dan Pengelolaan Pasar Sewa Perumahan Taiwan membatasi uang jaminan maksimal dua bulan sewa (Pasal 7), dan Pasal 10 mencantumkan lima alasan pemilik dapat mengakhiri sewa lebih awal — empat di antaranya perlu pemberitahuan tertulis tiga puluh hari sebelumnya, sedangkan pengambilalihan untuk pembangunan ulang perlu tiga bulan.
+- [Berapa hari batas waktu mengurus izin tinggal — dan apakah pindah alamat atau ganti pekerjaan wajib dilaporkan](https://id.aeiou.now/topic/residency-and-visas/): Alien Resident Certificate (ARC) Taiwan, yang diterbitkan oleh National Immigration Agency, wajib diurus dalam 30 hari sejak kedatangan, dan perubahan alamat juga wajib dilaporkan dalam 30 hari yang sama — terlambat, Immigration Act menetapkan denda NT$2.000–10.000.
+- [Festival Belanja](https://id.aeiou.now/topic/shopping-festivals/): Festival belanja adalah satu-satunya jenis perayaan yang diciptakan sendiri oleh dunia ritel, lalu negara menyusul dengan aturan.
+- [Tanabata dan Qixi](https://id.aeiou.now/topic/tanabata-and-qixi/): Satu legenda tentang gadis penenun dan penggembala, satu tanggal pada hari ketujuh bulan ketujuh penanggalan lunisolar — dan tiga masyarakat yang membuat tiga perayaan berbeda darinya.
+- [Hari Guru](https://id.aeiou.now/topic/teachers-day/): Tujuh tempat menempatkan Hari Guru pada tujuh tanggal berbeda, dan alasan memilih tanggalnya sama sekali tidak sejenis: Taiwan memakai hari lahir Konfusius, Tiongkok daratan menetapkannya lewat keputusan lembaga legislatif nasional pada 10 September, India memakai hari lahir presiden keduanya yang seorang guru besar filsafat, Brasil menelusurinya ke maklumat persekolahan 1827, Indonesia memakai hari berdirinya organisasi gurunya, Singapura mengikuti kalender sekolah pada awal September, dan Amerika Serikat mengubahnya menjadi satu pekan penuh pada Mei.
+- [Apa yang diminta pemilu dari seorang pemilih, negara demi negara](https://id.aeiou.now/topic/voting-and-elections/): Pasal 14 konstitusi Brasil menjadikan memilih sebagai kewajiban bagi warga berusia delapan belas sampai tujuh puluh tahun, dan ketidakhadiran harus dipertanggungjawabkan.
+- [Gugur dalam perang dan para veteran](https://id.aeiou.now/topic/war-dead-and-veterans/): Amerika Serikat memisahkan yang gugur dari yang selamat menjadi dua hari libur federal: Memorial Day pada bulan Mei untuk mereka yang tewas, dan Veterans Day pada 11 November untuk mereka yang pulang.
+- [Pernikahan dan Adat Perkawinan](https://id.aeiou.now/topic/weddings-and-customs/): Jalan hukum menuju perkawinan berbeda menurut tempat.
+- [Hari Perempuan Internasional](https://id.aeiou.now/topic/womens-day/): 8 Maret jatuh pada tanggal yang sama di tujuh tempat yang dibandingkan di sini, tetapi diperlakukan sangat berbeda oleh setiap sistem hukum.
+- [Bonus Akhir Tahun dan Gaji Ketiga Belas](https://id.aeiou.now/topic/year-end-bonus/): Bonus akhir tahun Taiwan bersandar pada Pasal 29 Undang-Undang Standar Ketenagakerjaan, yang hanya berlaku bila tahun usaha ditutup dengan surplus — sebuah syarat, tanpa tenggat dan tanpa sanksi, sehingga besarannya ditentukan perusahaan.
+
+## Hari libur nasional
+
+- [Hari libur Brasil 2026](https://id.aeiou.now/holidays/br/2026/)
+- [Hari libur Brasil 2027](https://id.aeiou.now/holidays/br/2027/)
+- [Hari libur Brasil 2028](https://id.aeiou.now/holidays/br/2028/)
+- [Hari libur Tiongkok 2026](https://id.aeiou.now/holidays/cn/2026/)
+- [Hari libur Tiongkok 2027](https://id.aeiou.now/holidays/cn/2027/)
+- [Hari libur Tiongkok 2028](https://id.aeiou.now/holidays/cn/2028/)
+- [Hari libur Indonesia 2026](https://id.aeiou.now/holidays/id/2026/)
+- [Hari libur Indonesia 2027](https://id.aeiou.now/holidays/id/2027/)
+- [Hari libur Indonesia 2028](https://id.aeiou.now/holidays/id/2028/)
+- [Hari libur India 2026](https://id.aeiou.now/holidays/in/2026/)
+- [Hari libur India 2027](https://id.aeiou.now/holidays/in/2027/)
+- [Hari libur India 2028](https://id.aeiou.now/holidays/in/2028/)
+- [Hari libur Jepang 2026](https://id.aeiou.now/holidays/jp/2026/)
+- [Hari libur Jepang 2027](https://id.aeiou.now/holidays/jp/2027/)
+- [Hari libur Jepang 2028](https://id.aeiou.now/holidays/jp/2028/)
+- [Hari libur Korea Selatan 2026](https://id.aeiou.now/holidays/kr/2026/)
+- [Hari libur Korea Selatan 2027](https://id.aeiou.now/holidays/kr/2027/)
+- [Hari libur Korea Selatan 2028](https://id.aeiou.now/holidays/kr/2028/)
+- [Hari libur Malaysia 2026](https://id.aeiou.now/holidays/my/2026/)
+- [Hari libur Malaysia 2027](https://id.aeiou.now/holidays/my/2027/)
+- [Hari libur Malaysia 2028](https://id.aeiou.now/holidays/my/2028/)
+- [Hari libur Filipina 2026](https://id.aeiou.now/holidays/ph/2026/)
+- [Hari libur Filipina 2027](https://id.aeiou.now/holidays/ph/2027/)
+- [Hari libur Filipina 2028](https://id.aeiou.now/holidays/ph/2028/)
+- [Hari libur Singapura 2026](https://id.aeiou.now/holidays/sg/2026/)
+- [Hari libur Singapura 2027](https://id.aeiou.now/holidays/sg/2027/)
+- [Hari libur Singapura 2028](https://id.aeiou.now/holidays/sg/2028/)
+- [Hari libur Thailand 2026](https://id.aeiou.now/holidays/th/2026/)
+- [Hari libur Thailand 2027](https://id.aeiou.now/holidays/th/2027/)
+- [Hari libur Thailand 2028](https://id.aeiou.now/holidays/th/2028/)
+- [Hari libur Taiwan 2026](https://id.aeiou.now/holidays/tw/2026/)
+- [Hari libur Taiwan 2027](https://id.aeiou.now/holidays/tw/2027/)
+- [Hari libur Taiwan 2028](https://id.aeiou.now/holidays/tw/2028/)
+- [Hari libur Amerika Serikat 2026](https://id.aeiou.now/holidays/us/2026/)
+- [Hari libur Amerika Serikat 2027](https://id.aeiou.now/holidays/us/2027/)
+- [Hari libur Amerika Serikat 2028](https://id.aeiou.now/holidays/us/2028/)
+- [Hari libur Vietnam 2026](https://id.aeiou.now/holidays/vn/2026/)
+- [Hari libur Vietnam 2027](https://id.aeiou.now/holidays/vn/2027/)
+- [Hari libur Vietnam 2028](https://id.aeiou.now/holidays/vn/2028/)
+
+## Kumpulan Pertanyaan Dunia
+
+- [Hari Valentine](https://id.aeiou.now/questions/affection-and-reciprocity/)
+- [Musim Kembali ke Sekolah](https://id.aeiou.now/questions/back-to-school/)
+- [Ulang Tahun dan Doa Baik](https://id.aeiou.now/questions/birthdays-and-blessings/)
+- [Hari Anak](https://id.aeiou.now/questions/childrens-day/)
+- [Hari-hari lain dalam kalender Kristen](https://id.aeiou.now/questions/christian-calendar-days/)
+- [Natal](https://id.aeiou.now/questions/christmas/)
+- [Diwali](https://id.aeiou.now/questions/diwali/)
+- [Paskah](https://id.aeiou.now/questions/easter/)
+- [Hari-hari Emansipasi](https://id.aeiou.now/questions/emancipation-and-abolition/)
+- [Ekuinoks, Solstis, dan Hari Libur](https://id.aeiou.now/questions/equinox-and-seasonal-turns/)
+- [Musim ujian masuk](https://id.aeiou.now/questions/exam-season/)
+- [Hari Ayah](https://id.aeiou.now/questions/fathers-day/)
+- [Hantu, Leluhur, dan Kenangan](https://id.aeiou.now/questions/ghosts-ancestors-and-remembrance/)
+- [Panen dan Rasa Syukur](https://id.aeiou.now/questions/harvest-and-gratitude/)
+- [Mudik dan Reuni](https://id.aeiou.now/questions/homecoming-and-reunion/)
+- [Hari-hari lain dalam kalender Hijriah](https://id.aeiou.now/questions/islamic-calendar-days/)
+- [Hari Buruh](https://id.aeiou.now/questions/labour-day/)
+- [Festival Lampion](https://id.aeiou.now/questions/lantern-festival/)
+- [Pertengahan Musim Gugur dan Menikmati Bulan](https://id.aeiou.now/questions/mid-autumn-and-moon-viewing/)
+- [Hari Ibu](https://id.aeiou.now/questions/mothers-day/)
+- [Hari Nasional](https://id.aeiou.now/questions/national-days/)
+- [Tahun Baru](https://id.aeiou.now/questions/new-year/)
+- [Hari Guru](https://id.aeiou.now/questions/teachers-day/)
+- [Hari Perempuan Internasional](https://id.aeiou.now/questions/womens-day/)
+- [Bonus Akhir Tahun dan Gaji Ketiga Belas](https://id.aeiou.now/questions/year-end-bonus/)
+
+---
+
+## Hari Valentine
+
+https://id.aeiou.now/topic/affection-and-reciprocity/
+
+Hari Valentine 2027 di Indonesia jatuh pada 14 Februari; tanggal ini bukan hari libur nasional, dan beberapa dinas pendidikan daerah justru menerbitkan imbauan agar sekolah tidak merayakannya. Halaman ini membandingkan status kelembagaan dan kebiasaan di tujuh tempat: Jepang membalas hadiah pada 14 Maret, Taiwan memiliki Qixi, Brasil merayakannya pada 12 Juni, dan India membentuk Valentine Week.
+
+- [Brasil](https://id.aeiou.now/topic/affection-and-reciprocity/br/)
+- [Tiongkok](https://id.aeiou.now/topic/affection-and-reciprocity/cn/)
+- [Indonesia](https://id.aeiou.now/topic/affection-and-reciprocity/id/)
+- [India](https://id.aeiou.now/topic/affection-and-reciprocity/in/)
+- [Jepang](https://id.aeiou.now/topic/affection-and-reciprocity/jp/)
+- [Taiwan](https://id.aeiou.now/topic/affection-and-reciprocity/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/affection-and-reciprocity/us/)
+
+## Tanya Jawab Lintas Negara
+
+https://id.aeiou.now/topic/ask-the-world/
+
+Ingin tahu bagaimana orang di Taiwan, Jepang, Amerika Serikat, India, Indonesia, atau Brasil bersekolah, berbelanja, merayakan hari penting, atau menyelesaikan urusan sehari-hari? Tulis pertanyaanmu dan dengarkan pengalaman orang yang tinggal di sana. Ruang ini terbuka sepanjang tahun.
+
+- [Brasil](https://id.aeiou.now/topic/ask-the-world/br/)
+- [Tiongkok](https://id.aeiou.now/topic/ask-the-world/cn/)
+- [Indonesia](https://id.aeiou.now/topic/ask-the-world/id/)
+- [India](https://id.aeiou.now/topic/ask-the-world/in/)
+- [Jepang](https://id.aeiou.now/topic/ask-the-world/jp/)
+- [Taiwan](https://id.aeiou.now/topic/ask-the-world/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/ask-the-world/us/)
+
+## Musim Kembali ke Sekolah
+
+https://id.aeiou.now/topic/back-to-school/
+
+Tidak ada satu tanggal masuk sekolah yang berlaku di semua tempat: tahun ajaran Jepang berjalan 1 April–31 Maret, tahun administratif Taiwan dimulai 1 Agustus tetapi murid biasanya masuk pada awal September, sedangkan Tiongkok daratan menetapkan awal musim gugur lewat kalender daerah pada akhir Agustus atau awal September. Indonesia biasanya mulai pada minggu ketiga Juli, India memiliki jendela April–Juni menurut negara bagian, Brasil umumnya mulai Februari, dan distrik Amerika Serikat memilih tanggal antara akhir Juli dan awal September. Halaman ini memisahkan tanggal dari seragam, biaya buku, transportasi, dan persiapan keluarga.
+
+- [Brasil](https://id.aeiou.now/topic/back-to-school/br/)
+- [Tiongkok](https://id.aeiou.now/topic/back-to-school/cn/)
+- [Indonesia](https://id.aeiou.now/topic/back-to-school/id/)
+- [India](https://id.aeiou.now/topic/back-to-school/in/)
+- [Jepang](https://id.aeiou.now/topic/back-to-school/jp/)
+- [Taiwan](https://id.aeiou.now/topic/back-to-school/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/back-to-school/us/)
+
+## Festival Bir
+
+https://id.aeiou.now/topic/beer-festivals/
+
+Perayaan yang sama, dibawa keluar dari Jerman, tetapi posisi negara di dalamnya berbeda-beda. Oktoberfest Blumenau di Brasil diselenggarakan oleh pemerintah kota sendiri — lokasi utamanya bahkan terdaftar sebagai salah satu organ pemerintah kota. Festival Bir Internasional Qingdao di Tiongkok digelar pemerintah kota dan jatuh pada Juli–Agustus, bukan Oktober, berakar pada pabrik bir yang didirikan pedagang Jerman dan Inggris di Qingdao pada 1903. Di Amerika Serikat, festival Cincinnati dijalankan swasta dan peran negara hanya menerbitkan izin sementara yang menurut aturannya tidak boleh dikeluarkan demi keuntungan pribadi. Di Indonesia, pengendalian minuman beralkohol membuat acara semacam itu tidak punya tempat secara kelembagaan.
+
+- [Brasil](https://id.aeiou.now/topic/beer-festivals/br/)
+- [Tiongkok](https://id.aeiou.now/topic/beer-festivals/cn/)
+- [Jepang](https://id.aeiou.now/topic/beer-festivals/jp/)
+- [Amerika Serikat](https://id.aeiou.now/topic/beer-festivals/us/)
+- [Indonesia](https://id.aeiou.now/topic/beer-festivals/id/)
+- [India](https://id.aeiou.now/topic/beer-festivals/in/)
+- [Taiwan](https://id.aeiou.now/topic/beer-festivals/tw/)
+
+## Ulang Tahun dan Doa Baik
+
+https://id.aeiou.now/topic/birthdays-and-blessings/
+
+Ulang tahun bukan hanya kue: Taiwan memakai usia genap dan hitungan tradisional, Jepang mendorong peralihan dari hitungan tradisional lewat undang-undang tetapi tetap mengenal tonggak seperti kanreki, dan usia 16, 18, serta 21 di Amerika Serikat berkaitan dengan hak yang berbeda. Di India, tanggal Gregorius dapat berbeda dari tithi; di Indonesia, syukuran menekankan berbagi; di Brasil, festa de 15 anos menjadi tonggak khusus. Halaman ini membandingkan tanggal, cara menghitung usia, makanan, hadiah, dan ritual keluarga tanpa menganggap satu bentuk ulang tahun berlaku universal.
+
+- [Brasil](https://id.aeiou.now/topic/birthdays-and-blessings/br/)
+- [Tiongkok](https://id.aeiou.now/topic/birthdays-and-blessings/cn/)
+- [Indonesia](https://id.aeiou.now/topic/birthdays-and-blessings/id/)
+- [India](https://id.aeiou.now/topic/birthdays-and-blessings/in/)
+- [Jepang](https://id.aeiou.now/topic/birthdays-and-blessings/jp/)
+- [Taiwan](https://id.aeiou.now/topic/birthdays-and-blessings/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/birthdays-and-blessings/us/)
+
+## Perawatan Keluarga dan Antargenerasi
+
+https://id.aeiou.now/topic/caregiving-across-generations/
+
+Perawatan keluarga bukan hanya soal tinggal serumah, tetapi juga soal siapa yang bertanggung jawab dan ke mana dukungan bisa diminta. Taiwan memulai layanan jangka panjang melalui penilaian saluran 1966; Jepang memakai asuransi perawatan yang dibayar sejak usia 40 dan umumnya dinilai mulai 65; India menyediakan tribunal untuk mengajukan tunjangan bagi orang tua, sedangkan Brasil menulis hak lansia dalam undang-undang. Tiongkok daratan dan Indonesia masih banyak mengandalkan keluarga serta komunitas, sementara dukungan Amerika Serikat terbagi antara Medicare, Medicaid, asuransi swasta, dan biaya sendiri. Halaman ini membandingkan hukum, layanan publik, dan kemampuan nyata keluarga.
+
+- [Brasil](https://id.aeiou.now/topic/caregiving-across-generations/br/)
+- [Tiongkok](https://id.aeiou.now/topic/caregiving-across-generations/cn/)
+- [Indonesia](https://id.aeiou.now/topic/caregiving-across-generations/id/)
+- [India](https://id.aeiou.now/topic/caregiving-across-generations/in/)
+- [Jepang](https://id.aeiou.now/topic/caregiving-across-generations/jp/)
+- [Taiwan](https://id.aeiou.now/topic/caregiving-across-generations/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/caregiving-across-generations/us/)
+
+## Karnaval
+
+https://id.aeiou.now/topic/carnival/
+
+Karnaval bukan hari libur resmi di Brasil. Statusnya *ponto facultativo* — hari libur pilihan yang setiap tahun ditetapkan kementerian pengelolaan lewat keputusan untuk kantor-kantor federal, dengan Rabu Abu hanya sampai pukul dua siang. Perayaan terbesar di dunia tidak memiliki status hari libur menurut undang-undang di negaranya sendiri; ia bertumpu pada satu keputusan administratif yang diterbitkan ulang setiap tahun. Amerika Serikat menjadikannya hari libur negara bagian Louisiana, Jepang memindahkannya ke Agustus dan melepas puasanya, dan Goa mempertahankan bentuk yang ditinggalkan pemerintahan Portugis.
+
+- [Brasil](https://id.aeiou.now/topic/carnival/br/)
+- [India](https://id.aeiou.now/topic/carnival/in/)
+- [Jepang](https://id.aeiou.now/topic/carnival/jp/)
+- [Amerika Serikat](https://id.aeiou.now/topic/carnival/us/)
+- [Tiongkok](https://id.aeiou.now/topic/carnival/cn/)
+- [Indonesia](https://id.aeiou.now/topic/carnival/id/)
+- [Taiwan](https://id.aeiou.now/topic/carnival/tw/)
+
+## Hari Anak
+
+https://id.aeiou.now/topic/childrens-day/
+
+Enam tempat menempatkan Hari Anak pada enam tanggal berbeda, tersebar dari April hingga November, dan 'siapa yang libur' pun berbeda: Taiwan meliburkan semua orang, Tiongkok daratan memberi libur hanya kepada anak di bawah empat belas tahun, Jepang menuliskan rasa terima kasih kepada ibu ke dalam tujuan hukumnya, Indonesia menjadikannya peringatan berdasarkan Keputusan Presiden dengan tema tahunan dari kementerian, Brasil berbagi tanggal dengan santo pelindung negara, dan India mengaitkannya dengan hari lahir Nehru.
+
+- [Brasil](https://id.aeiou.now/topic/childrens-day/br/)
+- [Tiongkok](https://id.aeiou.now/topic/childrens-day/cn/)
+- [Indonesia](https://id.aeiou.now/topic/childrens-day/id/)
+- [India](https://id.aeiou.now/topic/childrens-day/in/)
+- [Jepang](https://id.aeiou.now/topic/childrens-day/jp/)
+- [Taiwan](https://id.aeiou.now/topic/childrens-day/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/childrens-day/us/)
+
+## Hari-hari lain dalam kalender Kristen
+
+https://id.aeiou.now/topic/christian-calendar-days/
+
+Di luar Natal dan Paskah, perhitungan Paskah yang sama masih melahirkan serangkaian hari: Rabu Abu, Jumat Agung, Kenaikan, Pentakosta, dan Corpus Christi. Sejauh mana sebuah kalender nasional mengikuti rangkaian itu berbeda-beda secara ekstrem. Indonesia, negara dengan penduduk muslim terbanyak di dunia, menjadikan Jumat Agung maupun Kenaikan sebagai hari libur nasional dan bahkan menambah cuti bersama sesudah Kenaikan. Brasil, negara Katolik terbesar, di tingkat federal hanya memperlakukan Corpus Christi sebagai hari kerja opsional, bukan hari libur resmi — ia baru menjadi libur sungguhan di kota yang dewannya membuat peraturan sendiri. Daftar sebelas hari libur federal Amerika Serikat memuat tepat satu hari Kristen, yaitu Natal. Pentakosta tidak muncul di mana pun: ia selalu jatuh pada hari Minggu.
+
+- [Brasil](https://id.aeiou.now/topic/christian-calendar-days/br/)
+- [Indonesia](https://id.aeiou.now/topic/christian-calendar-days/id/)
+- [Amerika Serikat](https://id.aeiou.now/topic/christian-calendar-days/us/)
+- [Tiongkok](https://id.aeiou.now/topic/christian-calendar-days/cn/)
+- [India](https://id.aeiou.now/topic/christian-calendar-days/in/)
+- [Jepang](https://id.aeiou.now/topic/christian-calendar-days/jp/)
+- [Taiwan](https://id.aeiou.now/topic/christian-calendar-days/tw/)
+
+## Natal
+
+https://id.aeiou.now/topic/christmas/
+
+25 Desember bukan hal yang sama di tujuh tempat. Brasil, Amerika Serikat, Indonesia, dan India menjadikannya hari libur resmi; Taiwan meliburkan hari itu sebagai Hari Konstitusi; Jepang dan Tiongkok daratan memperlakukannya sebagai hari kerja. Halaman ini membandingkan status hukumnya, ritme hari-hari di sekitarnya, dan cara keluarga serta dunia usaha ikut terlibat.
+
+- [Brasil](https://id.aeiou.now/topic/christmas/br/)
+- [Tiongkok](https://id.aeiou.now/topic/christmas/cn/)
+- [Indonesia](https://id.aeiou.now/topic/christmas/id/)
+- [India](https://id.aeiou.now/topic/christmas/in/)
+- [Jepang](https://id.aeiou.now/topic/christmas/jp/)
+- [Taiwan](https://id.aeiou.now/topic/christmas/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/christmas/us/)
+
+## Upacara Kedewasaan
+
+https://id.aeiou.now/topic/coming-of-age/
+
+Usia dewasa menurut hukum dan upacara kedewasaan bukanlah garis yang sama. Taiwan, Tiongkok daratan, dan India menetapkan kedewasaan sipil pada usia 18; Jepang menurunkannya menjadi 18 pada 2022, meski banyak upacara daerah masih berfokus pada usia 20. Indonesia memberi KTP dan hak pilih pada usia 17, tetapi batas perlindungan anak berakhir pada 18; Brasil memakai usia 18 dengan beberapa jalan menuju kecakapan penuh lebih awal; Amerika Serikat memisahkan usia memilih, minum, membuat kontrak, dan hak lain. Halaman ini memisahkan hukum, ritual, pengakuan keluarga, dan pilihan pribadi.
+
+- [Brasil](https://id.aeiou.now/topic/coming-of-age/br/)
+- [Tiongkok](https://id.aeiou.now/topic/coming-of-age/cn/)
+- [Indonesia](https://id.aeiou.now/topic/coming-of-age/id/)
+- [India](https://id.aeiou.now/topic/coming-of-age/in/)
+- [Jepang](https://id.aeiou.now/topic/coming-of-age/jp/)
+- [Taiwan](https://id.aeiou.now/topic/coming-of-age/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/coming-of-age/us/)
+
+## Wajib belajar: dari usia berapa sampai berapa — dan kewajiban siapa
+
+https://id.aeiou.now/topic/compulsory-education/
+
+Undang-Undang Pendidikan Nasional Taiwan menetapkan enam sampai lima belas tahun, sembilan tahun, dan menyerahkan pemaksaan pendaftarannya kepada undang-undang tersendiri. Pasal 208 Brasil, setelah amendemen 2009, berlaku dari empat sampai tujuh belas tahun — rentang terlebar di antara tujuh. Pasal 21A India mencakup enam sampai empat belas tahun dan berada di bagian hak-hak dasar, sehingga bisa dibawa ke pengadilan. Pasal 31 ayat (2) UUD 1945 menaruh kewajiban di dua sisi sekaligus: setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya, sementara ayat berikutnya menyisihkan sekurang-kurangnya dua puluh persen anggaran untuk pendidikan. Pasal 26 Jepang menaruh kewajiban itu pada orang tua. Pasal 46 Tiongkok menjadikan pendidikan hak sekaligus kewajiban dalam satu kalimat. Amerika Serikat tidak punya aturan federal sama sekali.
+
+- [Brasil](https://id.aeiou.now/topic/compulsory-education/br/)
+- [Tiongkok](https://id.aeiou.now/topic/compulsory-education/cn/)
+- [Indonesia](https://id.aeiou.now/topic/compulsory-education/id/)
+- [India](https://id.aeiou.now/topic/compulsory-education/in/)
+- [Jepang](https://id.aeiou.now/topic/compulsory-education/jp/)
+- [Taiwan](https://id.aeiou.now/topic/compulsory-education/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/compulsory-education/us/)
+
+## Diwali
+
+https://id.aeiou.now/topic/diwali/
+
+Diwali adalah rangkaian lima hari, bukan satu hari. Halaman ini memisahkan hari utama (Puja Lakshmi–Ganesha), Dhanteras di awal, dan Bhai Dooj di akhir, lalu membandingkan dua status yang sangat berbeda: hari libur nasional dengan rangkaian ritual lima hari di India, dan penutupan sekolah negeri di Kota New York yang baru menjadi undang-undang pada 2023.
+
+- [India](https://id.aeiou.now/topic/diwali/in/)
+- [Amerika Serikat](https://id.aeiou.now/topic/diwali/us/)
+- [Brasil](https://id.aeiou.now/topic/diwali/br/)
+- [Tiongkok](https://id.aeiou.now/topic/diwali/cn/)
+- [Indonesia](https://id.aeiou.now/topic/diwali/id/)
+- [Jepang](https://id.aeiou.now/topic/diwali/jp/)
+- [Taiwan](https://id.aeiou.now/topic/diwali/tw/)
+
+## Festival Perahu Naga
+
+https://id.aeiou.now/topic/dragon-boat-festival/
+
+Hari kelima bulan kelima penanggalan lunar adalah hari libur di Taiwan maupun Tiongkok daratan, sementara Jepang memindahkan 'lima-lima' yang sama ke kalender Gregorius dan menjadikannya hari anak menurut undang-undang. Halaman ini membandingkan empat hal: siapa yang libur, di mana letak zongzi dan perahunya, sejauh mana versi lokal terdaftar sebagai warisan tersendiri, dan bagaimana hari itu di Jepang dimaknai ulang sebagai menghormati kepribadian anak sekaligus berterima kasih kepada ibu.
+
+- [Tiongkok](https://id.aeiou.now/topic/dragon-boat-festival/cn/)
+- [Indonesia](https://id.aeiou.now/topic/dragon-boat-festival/id/)
+- [Jepang](https://id.aeiou.now/topic/dragon-boat-festival/jp/)
+- [Taiwan](https://id.aeiou.now/topic/dragon-boat-festival/tw/)
+- [Brasil](https://id.aeiou.now/topic/dragon-boat-festival/br/)
+- [India](https://id.aeiou.now/topic/dragon-boat-festival/in/)
+- [Amerika Serikat](https://id.aeiou.now/topic/dragon-boat-festival/us/)
+
+## Paskah
+
+https://id.aeiou.now/topic/easter/
+
+Kedudukan kelembagaan Paskah sangat berbeda di empat tempat ini, dan arahnya tidak seperti yang diduga banyak orang: Indonesia yang berpenduduk mayoritas Muslim menetapkan empat peringatan Kristen sebagai hari libur nasional — Jumat Agung, Paskah, Kenaikan, dan Natal; Amerika Serikat yang mayoritas Kristen tidak menjadikan satu pun sebagai hari libur federal kecuali Natal; Brasil menyerahkan keputusan hari libur keagamaan kepada dewan kota dengan batas empat; dan daftar nasional India memuat Jumat Agung, bukan Minggu Paskah.
+
+- [Brasil](https://id.aeiou.now/topic/easter/br/)
+- [Indonesia](https://id.aeiou.now/topic/easter/id/)
+- [India](https://id.aeiou.now/topic/easter/in/)
+- [Amerika Serikat](https://id.aeiou.now/topic/easter/us/)
+- [Tiongkok](https://id.aeiou.now/topic/easter/cn/)
+- [Jepang](https://id.aeiou.now/topic/easter/jp/)
+- [Taiwan](https://id.aeiou.now/topic/easter/tw/)
+
+## Iduladha
+
+https://id.aeiou.now/topic/eid-al-adha/
+
+Satu tanggal dalam kalender Islam, empat perlakuan kelembagaan yang berbeda: Indonesia menjadikannya hari libur nasional dan menambah cuti bersama; India memasukkannya ke daftar hari libur nasional; Amerika Serikat tidak punya hari libur federal tetapi sekolah negeri Kota New York tutup; dan di Brasil ia bahkan belum menjadi tanggal peringatan resmi — komite Senat baru menyetujui usul memasukkan hari raya Islam ke kalender nasional pada 2024. Yang dibandingkan halaman ini adalah tingkat pengakuan, bukan rincian ritualnya.
+
+- [Brasil](https://id.aeiou.now/topic/eid-al-adha/br/)
+- [Tiongkok](https://id.aeiou.now/topic/eid-al-adha/cn/)
+- [Indonesia](https://id.aeiou.now/topic/eid-al-adha/id/)
+- [India](https://id.aeiou.now/topic/eid-al-adha/in/)
+- [Taiwan](https://id.aeiou.now/topic/eid-al-adha/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/eid-al-adha/us/)
+- [Jepang](https://id.aeiou.now/topic/eid-al-adha/jp/)
+
+## Hari Lanjut Usia dan Hari Kakek-Nenek
+
+https://id.aeiou.now/topic/elders-day/
+
+Ketujuh pasar menyisihkan satu hari bagi warganya yang paling sepuh, dan tak ada dua di antaranya yang menaruhnya pada tanggal yang sama. Hari Kakek-Nenek Taiwan jatuh pada Minggu keempat Agustus, digalakkan Kementerian Pendidikan sejak 2010, tanpa libur. Hari Menghormati Lansia Jepang adalah libur nasional pada Senin ketiga September. Tiongkok menuliskan Double Ninth ke dalam undang-undang hak lansia dan menyebutnya Hari Lansia — dan tetap tidak meliburkannya. Yang berbeda bukan hanya tanggalnya, melainkan di mana hari itu berdiri secara kelembagaan: undang-undang di satu tempat, kampanye pendidikan di tempat lain, versi lokal hari PBB di tempat ketiga.
+
+- [Brasil](https://id.aeiou.now/topic/elders-day/br/)
+- [Tiongkok](https://id.aeiou.now/topic/elders-day/cn/)
+- [Indonesia](https://id.aeiou.now/topic/elders-day/id/)
+- [India](https://id.aeiou.now/topic/elders-day/in/)
+- [Jepang](https://id.aeiou.now/topic/elders-day/jp/)
+- [Taiwan](https://id.aeiou.now/topic/elders-day/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/elders-day/us/)
+
+## Hari-hari Emansipasi
+
+https://id.aeiou.now/topic/emancipation-and-abolition/
+
+Dua masyarakat budak terbesar di benua Amerika sama-sama baru pada dekade 2020-an memasukkan penghapusan perbudakan ke dalam daftar hari libur nasional: Amerika Serikat pada 2021, Brasil pada 2023 — lebih dari satu setengah abad setelah perbudakan berakhir secara hukum. Jalannya pun mirip, naik dari bawah: Texas sudah menjadikan 19 Juni hari libur negara bagian pada 1980, sedangkan 20 November di Brasil lebih dulu masuk kalender sekolah, lalu menjadi hari peringatan nasional, dan baru paling akhir menjadi hari libur. India tidak punya hari peringatan penghapusan; tanggal terdekat, Ambedkar Jayanti pada 14 April, bahkan tidak ada dalam daftar libur tahunan pemerintah pusat dan diberikan lewat surat perintah tersendiri setiap tahun. Taiwan menulis 21 Maret ke dalam undang-undang sekaligus menegaskan tidak ada libur; Jepang punya undang-undangnya tetapi tidak punya tanggalnya; daftar hari libur nasional Indonesia dan Tiongkok sama-sama tidak memuat hari semacam itu.
+
+- [Brasil](https://id.aeiou.now/topic/emancipation-and-abolition/br/)
+- [India](https://id.aeiou.now/topic/emancipation-and-abolition/in/)
+- [Taiwan](https://id.aeiou.now/topic/emancipation-and-abolition/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/emancipation-and-abolition/us/)
+- [Tiongkok](https://id.aeiou.now/topic/emancipation-and-abolition/cn/)
+- [Indonesia](https://id.aeiou.now/topic/emancipation-and-abolition/id/)
+- [Jepang](https://id.aeiou.now/topic/emancipation-and-abolition/jp/)
+
+## Ujian masuk universitas: ujian apa, siapa penyelenggaranya, dan apa lagi yang dinilai
+
+https://id.aeiou.now/topic/entrance-exams/
+
+Taiwan mengikuti 學測 dan 分科測驗 (keduanya diselenggarakan CEEC) lewat tiga jalur dengan aturan berbeda: Jalur Aplikasi membatasi nilai ujian maksimal setengah dari skor akhir, sisanya dinilai dari portofolio dan wawancara; Jalur Penempatan murni mengurutkan berdasarkan nilai ujian; dan Rekomendasi Bintang berdasarkan peringkat sekolah semata, tanpa penempatan berbasis nilai ujian. Tiongkok memakai gaokao (dikoordinasikan secara nasional oleh Kementerian Pendidikan, setiap 7-8 Juni) dengan struktur "3+1+2" bernilai maksimum 750, ditambah program terpisah 强基计划 yang menambahkan ujian kampus untuk bakat sains dasar. Jepang mengadakan satu Tes Bersama nasional setiap Januari lewat DNC, tetapi universitas negeri dan publik menambahkan ujian tahap kedua milik masing-masing kampus di atasnya. Amerika Serikat sama sekali tidak punya ujian nasional — Departemen Pendidikan federal tidak berwenang atas penerimaan — dan SAT/ACT yang terkenal adalah tes milik lembaga swasta (College Board, ACT Inc.) yang ditimbang bersama IPK dan esai oleh sebagian besar kampus selektif; sekitar 25% kampus empat tahun menerapkan open admission pada musim gugur 2021. National Testing Agency India menjalankan tiga ujian terpisah menurut bidang — JEE Main (teknik, dua kali setahun), NEET UG (kedokteran, sekali setahun, kini satu-satunya dasar penerimaan di seluruh negeri), dan CUET UG (sarjana umum, sekali setahun, sudah menggantikan nilai kelas 12 di sekitar 48 universitas pusat). Universitas negeri Indonesia terbagi tiga jalur — SNBP berdasarkan nilai rapor (kuota minimal 20%), SNBT berdasarkan tes UTBK (kuota minimal 30-40%), dan Jalur Mandiri yang dikelola kampus sendiri (hingga 30-50%). ENEM Brasil (diselenggarakan INEP sekali setahun) menghubungkan ke SiSU untuk kursi universitas negeri di bawah undang-undang kuota, sementara universitas negeri bagian seperti USP dan UNICAMP tetap menjalankan vestibular sendiri. Tidak ada dua dari ketujuh negara ini yang caranya sama — bedanya ada pada berapa kali setahun, siapa penyelenggaranya, dan seberapa besar nilai ujian saja yang menentukan.
+
+- [Brasil](https://id.aeiou.now/topic/entrance-exams/br/)
+- [Tiongkok](https://id.aeiou.now/topic/entrance-exams/cn/)
+- [Indonesia](https://id.aeiou.now/topic/entrance-exams/id/)
+- [India](https://id.aeiou.now/topic/entrance-exams/in/)
+- [Jepang](https://id.aeiou.now/topic/entrance-exams/jp/)
+- [Taiwan](https://id.aeiou.now/topic/entrance-exams/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/entrance-exams/us/)
+
+## Hari Lingkungan
+
+https://id.aeiou.now/topic/environment-days/
+
+Hari-hari lingkungan hampir tidak pernah datang bersama hari libur. Di antara tujuh negara ini hanya Jepang yang jadi pengecualian, dan itu pun terjadi secara kebetulan: 4 Mei, Midori no Hi, adalah hari libur resmi yang tercantum dalam Pasal 2 Undang-Undang Hari Libur Nasional. Asalnya bukan soal alam — tanggal itu semula 29 April, hari lahir Kaisar Showa. Setelah takhta berganti pada 1989, ulang tahun kaisar pindah ke Desember dan 29 April yang kosong diberi nama Midori no Hi lewat perubahan undang-undang tahun itu agar liburnya tetap ada; pada 2007 nama itu digeser lagi ke 4 Mei. Enam negara lainnya menulis hari lingkungan mereka ke dalam undang-undang, keputusan presiden, atau keputusan sidang — dan di dokumen yang sama menegaskan bahwa hari itu bukan hari libur.
+
+- [Brasil](https://id.aeiou.now/topic/environment-days/br/)
+- [Tiongkok](https://id.aeiou.now/topic/environment-days/cn/)
+- [Indonesia](https://id.aeiou.now/topic/environment-days/id/)
+- [India](https://id.aeiou.now/topic/environment-days/in/)
+- [Jepang](https://id.aeiou.now/topic/environment-days/jp/)
+- [Taiwan](https://id.aeiou.now/topic/environment-days/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/environment-days/us/)
+
+## Ekuinoks, Solstis, dan Hari Libur
+
+https://id.aeiou.now/topic/equinox-and-seasonal-turns/
+
+Inilah satu-satunya jenis hari besar yang tanggalnya tidak dipilih siapa pun. Matahari sampai di satu titik pada ekliptika, dan hari itulah tanggalnya. Yang berbeda adalah cara tiap negara memasukkan fakta astronomi itu ke dalam hukum. Jepang menjadikan ekuinoks Maret dan September sebagai hari libur resmi tanpa menyebut tanggal, menyerahkan perhitungannya kepada observatorium nasional, dan baru mengumumkan tanggal tahun depan lewat lembaran negara pada Februari tahun sebelumnya. Di Tiongkok hanya satu hari libur resmi, Qingming, yang tanggalnya ditentukan pergerakan matahari. Undang-undang Taiwan hanya mengaitkan dua hari dengan penanda matahari dan sama sekali tidak menyebut solstis Desember. Makar Sankranti di India sudah bergeser tiga pekan dari solstis yang dulu ditandainya. Amerika Serikat meninggalkan astronomi dan menulis "hari Minggu kedua bulan Maret" di undang-undangnya.
+
+- [Tiongkok](https://id.aeiou.now/topic/equinox-and-seasonal-turns/cn/)
+- [Indonesia](https://id.aeiou.now/topic/equinox-and-seasonal-turns/id/)
+- [India](https://id.aeiou.now/topic/equinox-and-seasonal-turns/in/)
+- [Jepang](https://id.aeiou.now/topic/equinox-and-seasonal-turns/jp/)
+- [Taiwan](https://id.aeiou.now/topic/equinox-and-seasonal-turns/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/equinox-and-seasonal-turns/us/)
+- [Brasil](https://id.aeiou.now/topic/equinox-and-seasonal-turns/br/)
+
+## Musim ujian masuk
+
+https://id.aeiou.now/topic/exam-season/
+
+Setiap negara yang dibandingkan di sini menjalankan ujian nasional yang menentukan kursi di perguruan tinggi, tetapi seberapa rapat keputusan itu dipadatkan sangat berbeda. Tiongkok memerasnya menjadi dua hari, 7 dan 8 Juni. Brasil justru sebaliknya, membentangkannya pada dua hari Minggu berjarak sepekan di bulan November. India melangkah lebih jauh lagi, menyebar naskah per mata pelajaran hampir dua bulan. Jepang dan Taiwan memakai sistem dua tahap: satu ujian nasional, lalu ujian masing-masing universitas. Amerika Serikat satu-satunya yang sama sekali tidak punya ujian masuk nasional. Pertanyaan yang sama — bagaimana seorang berusia delapan belas tahun sebaiknya diukur — mendapat tujuh jawaban berbeda.
+
+- [Brasil](https://id.aeiou.now/topic/exam-season/br/)
+- [Tiongkok](https://id.aeiou.now/topic/exam-season/cn/)
+- [Indonesia](https://id.aeiou.now/topic/exam-season/id/)
+- [India](https://id.aeiou.now/topic/exam-season/in/)
+- [Jepang](https://id.aeiou.now/topic/exam-season/jp/)
+- [Taiwan](https://id.aeiou.now/topic/exam-season/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/exam-season/us/)
+
+## Perpisahan dan Pemakaman
+
+https://id.aeiou.now/topic/farewells-and-funerals/
+
+Pemakaman berjalan menurut dua waktu: waktu administratif dan waktu keluarga atau agama. Jepang umumnya mensyaratkan menunggu 24 jam sebelum kremasi atau pemakaman; Taiwan memberi batas 30 hari untuk mendaftarkan kematian, India 21 hari, sedangkan Brasil sering menyelesaikan pelayatan dan pemakaman dalam 24 jam. Komunitas Muslim di Indonesia biasanya memakamkan pada hari yang sama atau berikutnya, sementara ngaben Bali dapat ditunda berbulan-bulan atau bertahun-tahun. Aturan kartu keluarga dan kremasi di Tiongkok daratan, serta sertifikat kematian menurut negara bagian di Amerika Serikat, ikut membentuk jadwal. Halaman ini memisahkan dokumen, waktu, dan cara berkabung.
+
+- [Brasil](https://id.aeiou.now/topic/farewells-and-funerals/br/)
+- [Tiongkok](https://id.aeiou.now/topic/farewells-and-funerals/cn/)
+- [Indonesia](https://id.aeiou.now/topic/farewells-and-funerals/id/)
+- [India](https://id.aeiou.now/topic/farewells-and-funerals/in/)
+- [Jepang](https://id.aeiou.now/topic/farewells-and-funerals/jp/)
+- [Taiwan](https://id.aeiou.now/topic/farewells-and-funerals/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/farewells-and-funerals/us/)
+
+## Hari Ayah
+
+https://id.aeiou.now/topic/fathers-day/
+
+Hari Ayah berada pada tiga tanggal berbeda di empat tempat, dan asal-usulnya sama sekali tidak sejenis: Taiwan memilih 8 Agustus karena 'delapan-delapan' terdengar seperti kata untuk ayah; Amerika Serikat butuh hampir enam puluh tahun sampai mengesahkannya pada 1972; dan versi Brasil diciptakan pada 1953 oleh seorang orang periklanan untuk mengisi kekosongan paruh kedua tahun ritel. Yang dibandingkan halaman ini adalah dari mana hari itu berasal — permainan bunyi, undang-undang, atau kampanye iklan.
+
+- [Brasil](https://id.aeiou.now/topic/fathers-day/br/)
+- [Tiongkok](https://id.aeiou.now/topic/fathers-day/cn/)
+- [Indonesia](https://id.aeiou.now/topic/fathers-day/id/)
+- [India](https://id.aeiou.now/topic/fathers-day/in/)
+- [Jepang](https://id.aeiou.now/topic/fathers-day/jp/)
+- [Taiwan](https://id.aeiou.now/topic/fathers-day/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/fathers-day/us/)
+
+## Pendiri dan Pemimpin Bangsa
+
+https://id.aeiou.now/topic/founders-and-national-leaders/
+
+Di Indonesia, Hari Kartini (21 April) ditetapkan lewat Keppres No. 108 Tahun 1964 sebagai hari besar nasional, tetapi ia tidak ada dalam tujuh belas hari libur nasional 2026; yang benar-benar meliburkan justru Hari Lahir Pancasila (1 Juni), yang menamai sebuah gagasan, bukan orang yang mengucapkannya. Di Amerika Serikat, nama resmi hari itu dalam undang-undang federal sampai sekarang tetap Washington's Birthday — "Presidents' Day" adalah sebutan negara bagian dan dunia ritel, bukan sebutan hukum. Taiwan memberi satu orang dua tanggal sekaligus, hari lahir dan hari wafat, dan tidak meliburkan keduanya. Jepang menghapus semua nama orang dari undang-undang hari liburnya pada 1948; dari enam belas hari libur nasional yang berlaku sekarang tidak ada satu pun yang memakai nama perorangan, dan 29 April mengenang sebuah zaman, bukan kaisarnya. Di Brasil, dekret republik pertama tahun 1890 menyebut nama Tiradentes, sedangkan undang-undang yang berlaku sekarang hanya menulis "21 April".
+
+- [Brasil](https://id.aeiou.now/topic/founders-and-national-leaders/br/)
+- [Indonesia](https://id.aeiou.now/topic/founders-and-national-leaders/id/)
+- [India](https://id.aeiou.now/topic/founders-and-national-leaders/in/)
+- [Jepang](https://id.aeiou.now/topic/founders-and-national-leaders/jp/)
+- [Taiwan](https://id.aeiou.now/topic/founders-and-national-leaders/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/founders-and-national-leaders/us/)
+- [Tiongkok](https://id.aeiou.now/topic/founders-and-national-leaders/cn/)
+
+## Hantu, Leluhur, dan Kenangan
+
+https://id.aeiou.now/topic/ghosts-ancestors-and-remembrance/
+
+Halaman ini melihat Hantu, Leluhur, dan Kenangan melalui tanggal, hubungan, dan perbedaan setempat. Tidak semua keluarga atau komunitas menjalaninya dengan cara yang sama.
+
+- [Brasil](https://id.aeiou.now/topic/ghosts-ancestors-and-remembrance/br/)
+- [Tiongkok](https://id.aeiou.now/topic/ghosts-ancestors-and-remembrance/cn/)
+- [Jepang](https://id.aeiou.now/topic/ghosts-ancestors-and-remembrance/jp/)
+- [Taiwan](https://id.aeiou.now/topic/ghosts-ancestors-and-remembrance/tw/)
+- [Indonesia](https://id.aeiou.now/topic/ghosts-ancestors-and-remembrance/id/)
+- [India](https://id.aeiou.now/topic/ghosts-ancestors-and-remembrance/in/)
+- [Amerika Serikat](https://id.aeiou.now/topic/ghosts-ancestors-and-remembrance/us/)
+
+## Musim Kelulusan
+
+https://id.aeiou.now/topic/graduation-season/
+
+Musim kelulusan tidak jatuh pada satu bulan yang sama: Jepang lulus pada Maret sebelum tahun ajaran April, Taiwan dan Tiongkok daratan umumnya Juni–Juli, distrik Amerika Serikat Mei–Juni, India sekitar Maret–Mei bersamaan dengan hasil ujian dewan, Indonesia Mei–Juni sebelum tahun ajaran Juli, dan Brasil Desember. Di Tiongkok daratan, gaokao dan pilihan universitas bisa lebih menentukan daripada upacara; di India hasil dan penerimaan demikian pula, sementara di Indonesia jeda sebelum pendaftaran tahun berikutnya sangat singkat. Halaman ini membandingkan upacara dengan langkah administratif sesudahnya.
+
+- [Brasil](https://id.aeiou.now/topic/graduation-season/br/)
+- [Tiongkok](https://id.aeiou.now/topic/graduation-season/cn/)
+- [Indonesia](https://id.aeiou.now/topic/graduation-season/id/)
+- [India](https://id.aeiou.now/topic/graduation-season/in/)
+- [Jepang](https://id.aeiou.now/topic/graduation-season/jp/)
+- [Taiwan](https://id.aeiou.now/topic/graduation-season/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/graduation-season/us/)
+
+## Halloween
+
+https://id.aeiou.now/topic/halloween/
+
+Halloween pada 31 Oktober bukan hari libur resmi di satu pun dari tujuh pasar ini. Yang berbeda adalah sejauh mana pemerintah tetap turun tangan. Amerika Serikat tidak memasukkannya ke undang-undang hari libur federal, tetapi FDA mengawasi lensa kontak kostum sebagai alat kesehatan, dan sebuah kota di Ohio menggeser malam trick-or-treat 2026 ke 29 Oktober. Jepang sama sekali tidak punya aturan nasional, sementara dua wilayah di Tokyo membuat perda sendiri — dan salah satu wali kotanya secara terbuka meminta orang tidak datang. Brasil tidak pernah meliburkannya, lalu mendirikan hari tandingan lewat undang-undang pada tanggal yang persis sama.
+
+- [Brasil](https://id.aeiou.now/topic/halloween/br/)
+- [Jepang](https://id.aeiou.now/topic/halloween/jp/)
+- [Taiwan](https://id.aeiou.now/topic/halloween/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/halloween/us/)
+- [Tiongkok](https://id.aeiou.now/topic/halloween/cn/)
+- [Indonesia](https://id.aeiou.now/topic/halloween/id/)
+- [India](https://id.aeiou.now/topic/halloween/in/)
+
+## Panen dan Rasa Syukur
+
+https://id.aeiou.now/topic/harvest-and-gratitude/
+
+Apakah panen menjadi hari raya, dan siapa yang berhak mendefinisikannya, dijawab dengan lima cara berbeda: Amerika Serikat membangun hari libur federal di seputar meja makan keluarga; Pongal di India ditentukan kalender Tamil dan masuknya matahari ke Makara, dan periuk nasinya adalah ritualnya sendiri; Brasil mengaitkannya dengan tiga hari santo di bulan Juni; Tiongkok daratan menciptakan hari raya petani lewat persetujuan Dewan Negara pada 2018; dan Jepang menulis ulang ritual panen kekaisaran pra-perang menjadi hari nasional untuk berterima kasih atas kerja.
+
+- [Brasil](https://id.aeiou.now/topic/harvest-and-gratitude/br/)
+- [Tiongkok](https://id.aeiou.now/topic/harvest-and-gratitude/cn/)
+- [India](https://id.aeiou.now/topic/harvest-and-gratitude/in/)
+- [Jepang](https://id.aeiou.now/topic/harvest-and-gratitude/jp/)
+- [Taiwan](https://id.aeiou.now/topic/harvest-and-gratitude/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/harvest-and-gratitude/us/)
+- [Indonesia](https://id.aeiou.now/topic/harvest-and-gratitude/id/)
+
+## Jaminan kesehatan: siapa yang wajib, dan siapa yang membayar
+
+https://id.aeiou.now/topic/health-coverage/
+
+Undang-Undang Asuransi Kesehatan Nasional Taiwan menyatakan kepesertaan wajib sejak pasal pertamanya, dimulai Maret 1995, dengan iuran terbagi pemberi kerja 60%, tertanggung 30%, pemerintah 10%. Jepang baru menutup celah terakhir "cakupan universal" pada 1961, setelah undang-undang 1958 mewajibkan setiap kotamadya menjalankan skemanya sendiri; iuran bersama pasien masih berjenjang menurut usia, dari 10% di usia 75 ke atas hingga 30% di usia 6–69 tahun. UU SJSN Indonesia tahun 2004 menyatakan tegas bahwa "kepesertaan bersifat wajib", dan pekerja asing menjadi peserta setelah enam bulan bekerja — hampir sama dengan ambang yang dipakai Taiwan. SUS Brasil adalah produk langsung Pasal 196 Konstitusi 1988-nya, "kesehatan adalah hak semua orang dan kewajiban Negara", gratis bagi siapa pun di wilayahnya. Sebaliknya, Tiongkok melaporkan cakupan nominal 95%, tetapi skema pekerja dan penduduknya membayar penggantian rawat inap dengan selisih 18 poin — 84,1% berbanding 66,0%. India sama sekali tidak punya mandat universal: PM-JAY hanya menjangkau 40% rumah tangga termiskin, dan pengeluaran mandiri masih 43,4% dari total. Amerika Serikat adalah satu-satunya dari tujuh negara tanpa jaminan cakupan sama sekali — mandat federalnya hanya ada di atas kertas sejak 2019, 8,0% populasi masih tidak berasuransi pada 2024, namun pengeluaran kesehatan per kapitanya lebih tinggi dari negara mana pun.
+
+- [Brasil](https://id.aeiou.now/topic/health-coverage/br/)
+- [Tiongkok](https://id.aeiou.now/topic/health-coverage/cn/)
+- [Indonesia](https://id.aeiou.now/topic/health-coverage/id/)
+- [India](https://id.aeiou.now/topic/health-coverage/in/)
+- [Jepang](https://id.aeiou.now/topic/health-coverage/jp/)
+- [Taiwan](https://id.aeiou.now/topic/health-coverage/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/health-coverage/us/)
+
+## Mudik dan Reuni
+
+https://id.aeiou.now/topic/homecoming-and-reunion/
+
+Pulang kampung bukan pola satu hari raya: di Taiwan gelombang utamanya Tahun Baru Imlek, di Jepang pergantian tahun dan Obon, di Tiongkok chunyun sekitar empat puluh hari di sekitar Festival Musim Semi, sedangkan Thanksgiving menjadi gelombang terbesar di Amerika Serikat. Di India, perjalanan mengikuti festival tiap negara bagian; di Indonesia, mudik berkumpul sekitar Idulfitri; di Brasil, kalender sekolah dan keluarga ikut menentukan waktunya. Halaman ini membandingkan tanggal, cuti, tekanan perjalanan, dan cara berkumpul, sambil mengakui pilihan orang yang tidak bisa atau tidak ingin bepergian.
+
+- [Indonesia](https://id.aeiou.now/topic/homecoming-and-reunion/id/)
+- [Jepang](https://id.aeiou.now/topic/homecoming-and-reunion/jp/)
+- [Brasil](https://id.aeiou.now/topic/homecoming-and-reunion/br/)
+- [Tiongkok](https://id.aeiou.now/topic/homecoming-and-reunion/cn/)
+- [India](https://id.aeiou.now/topic/homecoming-and-reunion/in/)
+- [Taiwan](https://id.aeiou.now/topic/homecoming-and-reunion/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/homecoming-and-reunion/us/)
+
+## Masyarakat Adat dan Memori Kolonial
+
+https://id.aeiou.now/topic/indigenous-and-colonial-memory/
+
+Indonesia mengakui masyarakat adat di konstitusi tetapi tidak di kalender: Pasal 18B ayat (2) UUD 1945, hasil Amandemen Kedua yang disahkan Agustus 2000, menyatakan negara mengakui dan menghormati kesatuan-kesatuan masyarakat hukum adat beserta hak-hak tradisionalnya — namun undang-undang pelaksananya, RUU Masyarakat Hukum Adat, masih tertahan di DPR setelah masuk Prolegnas 2024–2029, dan tidak ada hari nasional untuk itu. Di tempat lain satu kotak kalender diperebutkan dua nama: hukum federal Amerika Serikat masih menulis Columbus Day, South Dakota menulis Native Americans' Day, Alabama menulis tiga nama dalam satu baris. Taiwan menaruh tiga hari peringatan di undang-undang tanpa satu pun hari libur, Brasil mengganti namanya pada 2022, India membuat harinya pada 2021.
+
+- [Brasil](https://id.aeiou.now/topic/indigenous-and-colonial-memory/br/)
+- [India](https://id.aeiou.now/topic/indigenous-and-colonial-memory/in/)
+- [Taiwan](https://id.aeiou.now/topic/indigenous-and-colonial-memory/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/indigenous-and-colonial-memory/us/)
+- [Tiongkok](https://id.aeiou.now/topic/indigenous-and-colonial-memory/cn/)
+- [Indonesia](https://id.aeiou.now/topic/indigenous-and-colonial-memory/id/)
+- [Jepang](https://id.aeiou.now/topic/indigenous-and-colonial-memory/jp/)
+
+## Hari-hari lain dalam kalender Hijriah
+
+https://id.aeiou.now/topic/islamic-calendar-days/
+
+Selain Ramadan dan dua hari raya Id, kalender Hijriah masih memuat beberapa hari: Tahun Baru pada 1 Muharam, Asyura pada 10 Muharam, kelahiran Nabi, dan Isra Mikraj. Dari tujuh tempat yang dibandingkan di sini, hanya Indonesia dan India yang menaruh salah satunya pada kalender resmi — dan keduanya pun tidak menandai hari yang sama. Indonesia mengambil 1 Muharam; "Muharram" yang diresmikan India adalah hari kesepuluh, Asyura, sepuluh hari sesudahnya pada 2026. Tanggal Maulid keduanya berselisih satu hari. Bagaimana tanggal ditetapkan, dan oleh siapa, lebih banyak bercerita daripada tanggalnya sendiri.
+
+- [Indonesia](https://id.aeiou.now/topic/islamic-calendar-days/id/)
+- [India](https://id.aeiou.now/topic/islamic-calendar-days/in/)
+- [Brasil](https://id.aeiou.now/topic/islamic-calendar-days/br/)
+- [Tiongkok](https://id.aeiou.now/topic/islamic-calendar-days/cn/)
+- [Jepang](https://id.aeiou.now/topic/islamic-calendar-days/jp/)
+- [Taiwan](https://id.aeiou.now/topic/islamic-calendar-days/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/islamic-calendar-days/us/)
+
+## Hari-hari dalam kalender Yahudi
+
+https://id.aeiou.now/topic/jewish-calendar-days/
+
+Rosh Hashanah, Yom Kippur, Paskah Yahudi, dan Hanukkah tidak menjadi hari libur nasional di negara mana pun — termasuk Amerika Serikat, tempat komunitas Yahudi terbesar di luar Israel, yang hari liburnya bagi pegawai federal ditetapkan undang-undang 5 U.S.C. 6103 dan hanya memuat satu hari raya keagamaan, yaitu Natal. Yang berbeda antarnegara adalah apa yang disediakan negara sebagai gantinya. Kota New York meliburkan sekolah negerinya pada Yom Kippur; Negara Bagian New Jersey mewajibkan setiap distrik menerima ketidakhadiran murid pada empat belas hari Yahudi; Brasil memberi setiap murid hak untuk mengikuti ujian pada tanggal lain. Taiwan, Jepang, Tiongkok, India, dan Indonesia sama sekali tidak memuat hari-hari itu, dan alasannya berbeda-beda.
+
+- [Amerika Serikat](https://id.aeiou.now/topic/jewish-calendar-days/us/)
+- [Brasil](https://id.aeiou.now/topic/jewish-calendar-days/br/)
+- [Tiongkok](https://id.aeiou.now/topic/jewish-calendar-days/cn/)
+- [Indonesia](https://id.aeiou.now/topic/jewish-calendar-days/id/)
+- [India](https://id.aeiou.now/topic/jewish-calendar-days/in/)
+- [Jepang](https://id.aeiou.now/topic/jewish-calendar-days/jp/)
+- [Taiwan](https://id.aeiou.now/topic/jewish-calendar-days/tw/)
+
+## Hari Buruh
+
+https://id.aeiou.now/topic/labour-day/
+
+1 Mei adalah Hari Buruh Internasional, tetapi tidak ada dua dari tujuh tempat ini yang memperlakukannya sama: Taiwan baru menjadikannya libur bagi semua orang lewat undang-undang baru pada 2025, Tiongkok daratan memberi dua hari sejak perubahan 2024, Brasil dan Indonesia mencantumkannya sebagai hari libur nasional, daftar nasional India sama sekali tidak memuatnya, Jepang tetap bekerja pada 1 Mei sementara hari-hari di sekitarnya libur, dan Amerika Serikat menaruh Hari Buruhnya pada September.
+
+- [Brasil](https://id.aeiou.now/topic/labour-day/br/)
+- [Tiongkok](https://id.aeiou.now/topic/labour-day/cn/)
+- [Indonesia](https://id.aeiou.now/topic/labour-day/id/)
+- [India](https://id.aeiou.now/topic/labour-day/in/)
+- [Jepang](https://id.aeiou.now/topic/labour-day/jp/)
+- [Taiwan](https://id.aeiou.now/topic/labour-day/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/labour-day/us/)
+
+## Festival Lampion
+
+https://id.aeiou.now/topic/lantern-festival/
+
+Tanggal bulan yang sama menghadirkan pemandangan berbeda. Di Taiwan saja ada tiga: makan tangyuan dan menonton pameran lampion, menerbangkan lampion langit di Pingxi, atau berdiri di tengah dinding kembang api yang meledak di Yanshui — sementara di Tiongkok daratan hari itu adalah hari kerja, bukan libur bagi seluruh warga. Halaman ini membandingkan intensitas ritual dan status resmi di bawah satu tanggal kalender.
+
+- [Tiongkok](https://id.aeiou.now/topic/lantern-festival/cn/)
+- [Indonesia](https://id.aeiou.now/topic/lantern-festival/id/)
+- [Taiwan](https://id.aeiou.now/topic/lantern-festival/tw/)
+- [Brasil](https://id.aeiou.now/topic/lantern-festival/br/)
+- [India](https://id.aeiou.now/topic/lantern-festival/in/)
+- [Jepang](https://id.aeiou.now/topic/lantern-festival/jp/)
+- [Amerika Serikat](https://id.aeiou.now/topic/lantern-festival/us/)
+
+## Libur Panjang
+
+https://id.aeiou.now/topic/long-holiday-weeks/
+
+Tujuh tempat sama-sama punya deretan hari libur yang menyambung, dan tidak satu pun merakitnya dengan cara yang sama. Di Jepang undang-undang hari libur mengisi sendiri hari yang menganga di tengah, tanpa perlu ada yang mengumumkan apa pun. Di Tiongkok Sekretariat Dewan Negara menerbitkan pemberitahuan setiap November yang menarik akhir pekan ke depan lalu menagihnya kembali sebagai hari kerja Sabtu. Di Indonesia cuti bersama diputuskan tiga menteri sekaligus — dan hari-hari itu memotong hak cuti tahunan pekerja sendiri. Taiwan menulis ulang undang-undang hari liburnya pada 2025 dan sejak itu hanya menambah hari pengganti, tidak lagi meminjam akhir pekan. Brasil menyambung dengan hari tanpa nama yang ditetapkan lewat peraturan menteri dan hanya mengikat kantor federal. Amerika Serikat memindahkan lima hari libur ke hari Senin pada 1968 dan sesudah itu tidak melakukan apa-apa lagi. India menyerahkannya kepada provinsi, dengan dasar sebuah undang-undang perbankan dari 1881.
+
+- [Brasil](https://id.aeiou.now/topic/long-holiday-weeks/br/)
+- [Tiongkok](https://id.aeiou.now/topic/long-holiday-weeks/cn/)
+- [Indonesia](https://id.aeiou.now/topic/long-holiday-weeks/id/)
+- [India](https://id.aeiou.now/topic/long-holiday-weeks/in/)
+- [Jepang](https://id.aeiou.now/topic/long-holiday-weeks/jp/)
+- [Taiwan](https://id.aeiou.now/topic/long-holiday-weeks/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/long-holiday-weeks/us/)
+
+## Pertengahan Musim Gugur dan Menikmati Bulan
+
+https://id.aeiou.now/topic/mid-autumn-and-moon-viewing/
+
+Di sekitar purnama yang sama ada empat cara berbeda: Taiwan dan Tiongkok daratan libur, makan kue bulan, dan berkumpul bersama keluarga; komunitas etnis Korea di Yanbian, Tiongkok, menjalaninya sebagai Chuseok yang dimulai dari ziarah makam; dan Jepang tidak libur sama sekali, memperlakukannya sebagai malam astronomi dan musim — di sana observatorium nasional menegaskan bahwa 'bulan panen' sering bukan purnama malam itu.
+
+- [Tiongkok](https://id.aeiou.now/topic/mid-autumn-and-moon-viewing/cn/)
+- [Jepang](https://id.aeiou.now/topic/mid-autumn-and-moon-viewing/jp/)
+- [Taiwan](https://id.aeiou.now/topic/mid-autumn-and-moon-viewing/tw/)
+- [Brasil](https://id.aeiou.now/topic/mid-autumn-and-moon-viewing/br/)
+- [Indonesia](https://id.aeiou.now/topic/mid-autumn-and-moon-viewing/id/)
+- [India](https://id.aeiou.now/topic/mid-autumn-and-moon-viewing/in/)
+- [Amerika Serikat](https://id.aeiou.now/topic/mid-autumn-and-moon-viewing/us/)
+
+## Ada yang wajib militer, ada yang cukup mendaftar, ada yang hanya tertulis di konstitusi
+
+https://id.aeiou.now/topic/military-service/
+
+Pasal 1 Undang-Undang Wajib Militer Taiwan hanya satu kalimat — setiap warga negara laki-laki berkewajiban menjalani dinas — dan Pasal 16 menetapkan dinas aktif wajib selama satu tahun. Konstitusi Tiongkok menyebut dinas militer sebagai "kewajiban yang terhormat". Konstitusi Brasil menyatakannya wajib, lalu memberi dinas alternatif bagi penolak karena hati nurani serta membebaskan perempuan dan rohaniwan pada masa damai. Amerika Serikat lebih ganjil lagi: 50 U.S.C. §3802 mewajibkan laki-laki berusia 18 sampai 26 tahun mendaftar, dan hampir tidak ada yang pernah dipanggil. Konstitusi Jepang sama sekali tidak memelihara angkatan darat, laut, dan udara. Indonesia dan India sama-sama menulis kewajiban bela negara di konstitusi, dan keduanya tanpa wajib militer.
+
+- [Brasil](https://id.aeiou.now/topic/military-service/br/)
+- [Tiongkok](https://id.aeiou.now/topic/military-service/cn/)
+- [Indonesia](https://id.aeiou.now/topic/military-service/id/)
+- [India](https://id.aeiou.now/topic/military-service/in/)
+- [Jepang](https://id.aeiou.now/topic/military-service/jp/)
+- [Taiwan](https://id.aeiou.now/topic/military-service/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/military-service/us/)
+
+## Upah minimum: siapa yang menetapkan, seberapa sering, dan siapa yang dilindungi
+
+https://id.aeiou.now/topic/minimum-wage/
+
+Undang-Undang Upah Minimum Taiwan (disahkan 2023) ditetapkan setiap tahun oleh Dewan Peninjauan Upah Minimum beranggotakan 21 orang yang bersidang pada kuartal ketiga; untuk 2026 angkanya NT$29.500 per bulan atau NT$196 per jam — satu angka nasional tunggal, tanpa perbedaan wilayah. Jepang justru punya 47 angka berbeda: dewan pusat menerbitkan pedoman nasional, lalu dewan upah minimum tiap prefektur menetapkan angkanya sendiri; pedoman tahun fiskal 2026 menunjuk rata-rata tertimbang nasional ¥1.176 per jam, tapi angka sebenarnya berbeda-beda antarprefektur. Peraturan Upah Minimum Tiongkok mewajibkan pemerintah provinsi meninjau ulang setidaknya setiap dua tahun, dan satu provinsi masih bisa punya dua sampai empat kelas upah — pengumuman Shaanxi untuk 2026 menetapkan kelas tertinggi ¥2.376 per bulan dan kelas terendah ¥2.140. Upah minimum federal Amerika Serikat bertahan di $7,25 per jam sejak 24 Juli 2009 — tidak berubah selama tujuh belas tahun — sementara tiap negara bagian bebas menetapkan angka lebih tinggi (Washington D.C. mencapai $18,40) atau cukup mengikuti angka federal. Kode Upah India tahun 2019 baru berlaku penuh pada 1 April 2026, memperluas perlindungan upah minimum dari sekitar 30 persen pekerja dalam kategori "pekerjaan terjadwal" menjadi hampir semua pekerja — tetapi upah dasar nasional yang mengikat, yang diizinkan undang-undang ini, masih dalam tahap konsultasi hingga Agustus 2026, dengan satu-satunya acuan berupa patokan tidak mengikat sebesar ₹176 per hari yang tidak berubah sejak 2017. Peraturan pemerintah Indonesia tahun 2025 memberi gubernur di 34 provinsi wewenang menetapkan UMP tahunan berdasarkan pertumbuhan ekonomi daerah masing-masing; UMP Jakarta 2026, tertinggi di negeri ini, adalah Rp5.729.876 per bulan. Brasil menetapkan satu angka nasional lewat dekrit presiden, disesuaikan tiap tahun berdasarkan inflasi INPC tahun sebelumnya ditambah pertumbuhan PDB dua tahun sebelumnya — R$1.621 per bulan sejak Januari 2026 — meski beberapa negara bagian seperti São Paulo dan Rio Grande do Sul diizinkan undang-undang tahun 2000 menetapkan upah minimum regional mereka sendiri yang lebih tinggi.
+
+- [Brasil](https://id.aeiou.now/topic/minimum-wage/br/)
+- [Tiongkok](https://id.aeiou.now/topic/minimum-wage/cn/)
+- [Indonesia](https://id.aeiou.now/topic/minimum-wage/id/)
+- [India](https://id.aeiou.now/topic/minimum-wage/in/)
+- [Jepang](https://id.aeiou.now/topic/minimum-wage/jp/)
+- [Taiwan](https://id.aeiou.now/topic/minimum-wage/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/minimum-wage/us/)
+
+## Hari Ibu
+
+https://id.aeiou.now/topic/mothers-day/
+
+Empat tempat merayakan Hari Ibu pada Minggu kedua bulan Mei; Indonesia menempatkannya pada 22 Desember — dan di sini ia bukan hari untuk berterima kasih kepada ibu, melainkan peringatan politik atas Kongres Perempuan Indonesia pertama tahun 1928. Halaman ini membandingkan bagaimana hari itu ditetapkan di tiap tempat: resolusi kongres, undang-undang yang menyebut namanya tetapi tegas tidak memberi libur, puncak permintaan industri bunga potong, atau titik awal sebuah gerakan perempuan.
+
+- [Brasil](https://id.aeiou.now/topic/mothers-day/br/)
+- [Tiongkok](https://id.aeiou.now/topic/mothers-day/cn/)
+- [Indonesia](https://id.aeiou.now/topic/mothers-day/id/)
+- [India](https://id.aeiou.now/topic/mothers-day/in/)
+- [Jepang](https://id.aeiou.now/topic/mothers-day/jp/)
+- [Taiwan](https://id.aeiou.now/topic/mothers-day/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/mothers-day/us/)
+
+## Pindah Rumah dan Selamatan Rumah
+
+https://id.aeiou.now/topic/moving-home/
+
+Pindah rumah memiliki dua pertanyaan berbeda: apakah alamat harus didaftarkan ke satu lembaga, dan bagaimana keluarga menandai rumah baru. Taiwan umumnya memberi waktu 30 hari untuk perubahan pendaftaran rumah tangga, Jepang 14 hari untuk laporan pindah masuk, Tiongkok daratan mengaitkannya dengan hukou, dan Indonesia memperbarui KTP serta kartu keluarga. India memerlukan pembaruan terpisah pada Aadhaar, daftar pemilih, dan KYC bank, sedangkan Amerika Serikat dan Brasil tidak memiliki satu sistem pendaftaran alamat. Halaman ini membandingkan urusan administrasi dengan selamatan, doa, penyucian, hadiah, dan sapaan tetangga.
+
+- [Brasil](https://id.aeiou.now/topic/moving-home/br/)
+- [Tiongkok](https://id.aeiou.now/topic/moving-home/cn/)
+- [Indonesia](https://id.aeiou.now/topic/moving-home/id/)
+- [India](https://id.aeiou.now/topic/moving-home/in/)
+- [Jepang](https://id.aeiou.now/topic/moving-home/jp/)
+- [Taiwan](https://id.aeiou.now/topic/moving-home/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/moving-home/us/)
+
+## Hari Nasional
+
+https://id.aeiou.now/topic/national-days/
+
+Tujuh hari nasional memperingati jenis peristiwa yang berbeda: Amerika Serikat, Brasil, Indonesia, dan India menandai momen lepas dari kekuasaan kolonial atau memproklamasikan kemerdekaan; Tiongkok daratan menandai berdirinya sebuah negara; Taiwan menandai pemberontakan yang mengakhiri kekaisaran; dan Hari Berdirinya Negara Jepang sama sekali tidak punya peristiwa sejarah bertanggal — ia bersandar pada penobatan legendaris. Yang dibandingkan halaman ini adalah di mana tiap tempat meletakkan hari sejak kapan sebuah negara dihitung.
+
+- [Brasil](https://id.aeiou.now/topic/national-days/br/)
+- [Tiongkok](https://id.aeiou.now/topic/national-days/cn/)
+- [Indonesia](https://id.aeiou.now/topic/national-days/id/)
+- [India](https://id.aeiou.now/topic/national-days/in/)
+- [Jepang](https://id.aeiou.now/topic/national-days/jp/)
+- [Taiwan](https://id.aeiou.now/topic/national-days/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/national-days/us/)
+
+## Tahun Baru
+
+https://id.aeiou.now/topic/new-year/
+
+'Tahun Baru' bukan satu hari yang sama. Taiwan dan Tiongkok daratan merayakan hari pertama bulan pertama penanggalan lunar; Jepang, Amerika Serikat, Brasil, dan Indonesia libur pada 1 Januari; sedangkan daftar hari libur nasional India sama sekali tidak memuat 1 Januari — di sana tahun baru jatuh pada Maret atau April dan bernama berbeda di tiap negara bagian. Halaman ini membandingkan hari mana yang dianggap awal, dan berapa hari liburnya.
+
+- [Brasil](https://id.aeiou.now/topic/new-year/br/)
+- [Tiongkok](https://id.aeiou.now/topic/new-year/cn/)
+- [Indonesia](https://id.aeiou.now/topic/new-year/id/)
+- [India](https://id.aeiou.now/topic/new-year/in/)
+- [Jepang](https://id.aeiou.now/topic/new-year/jp/)
+- [Taiwan](https://id.aeiou.now/topic/new-year/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/new-year/us/)
+
+## Bayi Baru Lahir dan Selapanan
+
+https://id.aeiou.now/topic/newborn-and-full-moon/
+
+Kelahiran bayi mengikuti dua waktu: pendaftaran kelahiran dan perayaan keluarga. Jepang memberi waktu 14 hari, India 21 hari, Tiongkok daratan satu bulan, Brasil 15 hari dengan perpanjangan untuk wilayah terpencil, Taiwan dan Indonesia umumnya 60 hari, sedangkan Amerika Serikat mengikuti aturan negara bagian. Kebiasaan keluarga berjalan dengan jadwal lain: Jepang memiliki penamaan dan kunjungan kuil pada hari ketujuh, Indonesia memiliki aqiqah hari ketujuh, dan Taiwan serta Tiongkok daratan sering merayakan bulan pertama. Halaman ini memisahkan dokumen, nama, doa, kunjungan, hadiah, dan perawatan awal.
+
+- [Brasil](https://id.aeiou.now/topic/newborn-and-full-moon/br/)
+- [Tiongkok](https://id.aeiou.now/topic/newborn-and-full-moon/cn/)
+- [Indonesia](https://id.aeiou.now/topic/newborn-and-full-moon/id/)
+- [India](https://id.aeiou.now/topic/newborn-and-full-moon/in/)
+- [Jepang](https://id.aeiou.now/topic/newborn-and-full-moon/jp/)
+- [Taiwan](https://id.aeiou.now/topic/newborn-and-full-moon/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/newborn-and-full-moon/us/)
+
+## Bahasa resmi: di konstitusi, di undang-undang, atau tidak di mana pun
+
+https://id.aeiou.now/topic/official-languages/
+
+Konstitusi India menyediakan satu bagian penuh untuk bahasa; Pasal 343 menetapkan bahasa Hindi beraksara Devanagari sebagai bahasa resmi Uni, lengkap dengan klausul peralihan lima belas tahun untuk bahasa Inggris. Konstitusi Indonesia menuntaskannya dalam satu kalimat — Bahasa Negara ialah Bahasa Indonesia. Pasal 13 konstitusi Brasil melakukan hal yang sama. Konstitusi Tiongkok sama sekali tidak memakai istilah "bahasa resmi"; ia menaruh "memasyarakatkan Putonghua yang berlaku umum" pada baris terakhir pasal tentang pendidikan. Taiwan justru sebaliknya: Undang-Undang Pengembangan Bahasa Nasionalnya menolak menyebut satu bahasa nasional dan malah mendaftarkan bahasa setiap komunitas asli, ditambah Bahasa Isyarat Taiwan, sebagai bahasa nasional yang setara. Jepang tidak punya bahasa resmi menurut undang-undang. Amerika Serikat pun tidak, baik di konstitusi maupun di undang-undang Kongres — bahasa Inggris ditetapkan lewat perintah eksekutif pada Maret 2025.
+
+- [Brasil](https://id.aeiou.now/topic/official-languages/br/)
+- [Tiongkok](https://id.aeiou.now/topic/official-languages/cn/)
+- [Indonesia](https://id.aeiou.now/topic/official-languages/id/)
+- [India](https://id.aeiou.now/topic/official-languages/in/)
+- [Jepang](https://id.aeiou.now/topic/official-languages/jp/)
+- [Taiwan](https://id.aeiou.now/topic/official-languages/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/official-languages/us/)
+
+## Cuti berbayar berapa hari, lembur dihitung bagaimana — apa bedanya tujuh negara
+
+https://id.aeiou.now/topic/paid-leave-and-overtime/
+
+Pasal 38 Undang-Undang Standar Ketenagakerjaan Taiwan membagi cuti tahunan menjadi enam tingkat: 3 hari pada enam bulan, 7 hari pada satu tahun, 10 hari pada dua tahun, 14 hari per tahun untuk tiga hingga lima tahun, 15 hari per tahun untuk lima hingga sepuluh tahun, dan tambahan 1 hari per tahun setelah sepuluh tahun, dengan batas 30 hari; cuti yang tidak diambil tidak hangus — Pasal 38 ayat 4 mewajibkan pemberi kerja membayar upahnya. Pasal 39 Jepang dimulai dari 10 hari setelah enam bulan hingga mencapai batas 20 hari pada 6,5 tahun; sejak 2019 pemberi kerja juga wajib memastikan pekerja yang berhak mengambil setidaknya 5 hari, tetapi berdasarkan Pasal 115, cuti yang tidak digunakan dalam dua tahun akan hangus begitu saja — tanpa kompensasi. Peraturan Cuti Tahunan Berbayar Tiongkok daratan mensyaratkan 12 bulan kerja terus-menerus untuk memenuhi syarat, lalu memberi 5, 10, atau 15 hari berdasarkan masa kerja kumulatif, dengan kewajiban membayar 300% upah harian untuk setiap hari yang tidak dijadwalkan perusahaan (Pasal 5). Hukum federal AS sama sekali tidak mengenal cuti tahunan berbayar berdasarkan undang-undang — Fair Labor Standards Act tidak mengatur cuti sama sekali, menyerahkan sepenuhnya kepada pemberi kerja atau negara bagian apakah dan berapa banyak cuti diberikan. Perlindungan cuti di India lama hanya ada dalam Pasal 79 Factories Act, mencakup pekerja pabrik yang mencapai 240 hari kerja setahun dengan rasio satu hari per 20 hari kerja; toko dan sektor jasa selalu diatur oleh hukum negara bagian yang berbeda-beda, dan kode ketenagakerjaan baru pada November 2025 barulah menurunkan ambang batas menjadi 180 hari. Pasal 79 Indonesia memberi 12 hari setelah 12 bulan; manfaat istirahat panjang dua bulan yang dulu wajib setelah enam tahun kerja kini hanya bersifat opsional setelah amendemen undang-undang. Pasal 130 CLT Brasil memberi 30 hari, tetapi ketidakhadiran tanpa alasan selama tahun itu mengurangi jumlahnya, dan pekerja bisa menukar hingga sepertiga menjadi uang tunai (Pasal 143). Perbedaan upah lembur bahkan lebih besar: Taiwan membayar premi sepertiga untuk dua jam pertama dan dua pertiga setelahnya; Jepang menambah premi 50% setelah 60 jam sebulan; Tiongkok memiliki tiga tingkat — 150% hari biasa, 200% hari istirahat, 300% tunai untuk hari libur nasional; AS hanya menghitung 1,5 kali untuk jam di atas 40 seminggu, tanpa aturan harian atau batas jam; India membayar dua kali lipat secara tetap untuk jam di atas batas hukum; Indonesia membayar 1,5 kali jam pertama dan 2 kali setelahnya, dengan batas 4 jam sehari; Brasil mewajibkan premi minimal 50% tetapi membatasi lembur hingga 2 jam sehari.
+
+- [Brasil](https://id.aeiou.now/topic/paid-leave-and-overtime/br/)
+- [Tiongkok](https://id.aeiou.now/topic/paid-leave-and-overtime/cn/)
+- [Indonesia](https://id.aeiou.now/topic/paid-leave-and-overtime/id/)
+- [India](https://id.aeiou.now/topic/paid-leave-and-overtime/in/)
+- [Jepang](https://id.aeiou.now/topic/paid-leave-and-overtime/jp/)
+- [Taiwan](https://id.aeiou.now/topic/paid-leave-and-overtime/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/paid-leave-and-overtime/us/)
+
+## Setelah anak lahir, berapa hari yang diberikan hukum
+
+https://id.aeiou.now/topic/parental-leave/
+
+Undang-Undang Standar Ketenagakerjaan Taiwan memberi cuti melahirkan delapan minggu, dibayar penuh setelah enam bulan masa kerja. Undang-undang Jepang bergerak ke arah lain: Pasal 65 melarang pemberi kerja mempekerjakan perempuan selama delapan minggu setelah melahirkan — bukan hak, melainkan larangan. Kitab Undang-Undang Perburuhan Brasil menetapkan 120 hari. Undang-Undang Nomor 4 Tahun 2024 di Indonesia menetapkan paling singkat tiga bulan dan tiga bulan tambahan bila diperlukan, dengan persentase upah dirinci bulan demi bulan. FMLA Amerika menyatakan dengan gamblang bahwa cuti itu "boleh berupa cuti tanpa upah".
+
+- [Brasil](https://id.aeiou.now/topic/parental-leave/br/)
+- [Tiongkok](https://id.aeiou.now/topic/parental-leave/cn/)
+- [Indonesia](https://id.aeiou.now/topic/parental-leave/id/)
+- [India](https://id.aeiou.now/topic/parental-leave/in/)
+- [Jepang](https://id.aeiou.now/topic/parental-leave/jp/)
+- [Taiwan](https://id.aeiou.now/topic/parental-leave/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/parental-leave/us/)
+
+## Kesiapsiagaan Hewan Peliharaan dan Bencana
+
+https://id.aeiou.now/topic/pet-preparedness/
+
+Kesiapsiagaan hewan peliharaan bukan sekadar membeli makanan tambahan. Jika listrik padam, harus pindah rumah, bepergian, atau mengungsi, pemilik perlu menyiapkan identitas dan catatan medis, makanan dan air, obat, carrier atau tali untuk setiap hewan, tempat yang menerima hewan, pengasuh cadangan, serta cara bertemu kembali jika terpisah. Panduan resmi Taiwan, Jepang, dan Amerika Serikat menempatkan persiapan ini sebelum bencana; membawa hewan saat evakuasi tidak otomatis berarti manusia dan hewan dapat tinggal di ruangan yang sama. Halaman ini membedakan pindahan, perjalanan, dan bencana, serta mengakui kebutuhan spesies yang berbeda.
+
+- [Brasil](https://id.aeiou.now/topic/pet-preparedness/br/)
+- [Tiongkok](https://id.aeiou.now/topic/pet-preparedness/cn/)
+- [Indonesia](https://id.aeiou.now/topic/pet-preparedness/id/)
+- [India](https://id.aeiou.now/topic/pet-preparedness/in/)
+- [Jepang](https://id.aeiou.now/topic/pet-preparedness/jp/)
+- [Taiwan](https://id.aeiou.now/topic/pet-preparedness/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/pet-preparedness/us/)
+
+## Hewan Peliharaan dan Kehidupan Keluarga
+
+https://id.aeiou.now/topic/pets-and-family/
+
+Menyebut hewan sebagai keluarga tidak membuatnya menjadi manusia di mata hukum. Taiwan mendefinisikan hewan peliharaan secara luas dan mewajibkan perawatan yang diperlukan bagi hewan yang sakit atau terluka; Jepang menyebut pemeliharaan sebagai tanggung jawab seumur hidup yang juga mencakup tetangga; di Tiongkok daratan, pendaftaran anjing dan perilaku di ruang publik banyak diatur oleh pemerintah kota. India, Indonesia, Brasil, dan Amerika Serikat menarik batas yang berbeda melalui kesejahteraan hewan, kesehatan publik, pemerintah daerah, dan pengangkutan komersial. Halaman ini tidak menebak apakah suatu tempat “lebih sayang” pada hewan; ia melihat siapa yang memikul tanggung jawab, hewan apa yang tercakup, dan bagaimana kehidupan bersama dinegosiasikan.
+
+- [Brasil](https://id.aeiou.now/topic/pets-and-family/br/)
+- [Tiongkok](https://id.aeiou.now/topic/pets-and-family/cn/)
+- [Indonesia](https://id.aeiou.now/topic/pets-and-family/id/)
+- [India](https://id.aeiou.now/topic/pets-and-family/in/)
+- [Jepang](https://id.aeiou.now/topic/pets-and-family/jp/)
+- [Taiwan](https://id.aeiou.now/topic/pets-and-family/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/pets-and-family/us/)
+
+## Lamaran dan Pertunangan
+
+https://id.aeiou.now/topic/proposals-and-engagements/
+
+Pertunangan bukanlah perkawinan. Taiwan menetapkan pertunangan pada usia 17 dan perkawinan pada 18, serta janji menikah tidak dapat dipaksakan; Indonesia setelah perubahan 2019 menetapkan usia minimum menikah 19 untuk kedua jenis kelamin, sementara lamaran lebih dulu menjadi pengakuan terbuka antar-keluarga. Di Tiongkok daratan, sengketa sering menyangkut pengembalian uang atau barang pertunangan; Jepang tidak memiliki undang-undang pertunangan khusus, India dipengaruhi hukum personal tiap komunitas, Brasil mengizinkan perkawinan bebas pada usia 18, dan Amerika Serikat menangani kepemilikan cincin menurut negara bagian. Halaman ini membandingkan makna sosial, negosiasi keluarga, persetujuan, dan bobot hukum.
+
+- [Brasil](https://id.aeiou.now/topic/proposals-and-engagements/br/)
+- [Tiongkok](https://id.aeiou.now/topic/proposals-and-engagements/cn/)
+- [Indonesia](https://id.aeiou.now/topic/proposals-and-engagements/id/)
+- [India](https://id.aeiou.now/topic/proposals-and-engagements/in/)
+- [Jepang](https://id.aeiou.now/topic/proposals-and-engagements/jp/)
+- [Taiwan](https://id.aeiou.now/topic/proposals-and-engagements/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/proposals-and-engagements/us/)
+
+## Ramadan dan Idulfitri
+
+https://id.aeiou.now/topic/ramadan-and-eid/
+
+Hari pertama Ramadan dan Idulfitri bukan jawaban tanggal yang sama. Di Indonesia, awal Ramadan diumumkan Kementerian Agama pada sidang isbat malam sebelumnya, sedangkan libur Idulfitri ditentukan terpisah berdasarkan 1 Syawal dan pengaturan pemerintah. Halaman ini memisahkan “kapan Indonesia mulai berpuasa” dari “kapan libur Lebaran” lalu membandingkan status kelembagaan di India, Taiwan, Amerika Serikat, dan Tiongkok daratan.
+
+- [Tiongkok](https://id.aeiou.now/topic/ramadan-and-eid/cn/)
+- [Indonesia](https://id.aeiou.now/topic/ramadan-and-eid/id/)
+- [India](https://id.aeiou.now/topic/ramadan-and-eid/in/)
+- [Taiwan](https://id.aeiou.now/topic/ramadan-and-eid/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/ramadan-and-eid/us/)
+- [Brasil](https://id.aeiou.now/topic/ramadan-and-eid/br/)
+- [Jepang](https://id.aeiou.now/topic/ramadan-and-eid/jp/)
+
+## Agama dan negara: seberapa jauh konstitusi menaruh keduanya
+
+https://id.aeiou.now/topic/religion-and-the-state/
+
+Baris pertama Pasal 29 UUD 1945 berbunyi bahwa negara berdasar atas Ketuhanan Yang Maha Esa. Pasal 19 konstitusi Brasil berjalan ke arah sebaliknya: melarang Uni, negara bagian, dan kotamadya mendirikan agama, mensubsidinya, atau memelihara hubungan ketergantungan maupun persekutuan dengannya. Pasal 20 konstitusi Jepang lebih rinci lagi — tidak ada organisasi keagamaan yang boleh menerima keistimewaan dari negara, dan negara beserta perangkatnya harus menjauhi pendidikan keagamaan maupun kegiatan keagamaan apa pun — sementara Pasal 89 melarang uang publik mengalir ke badan keagamaan. Amendemen Pertama Amerika menyatakan Kongres tidak boleh membuat undang-undang tentang pendirian agama. Pasal 36 Tiongkok menjamin kebebasan beragama tetapi melindungi kegiatan keagamaan yang "normal", dan menegaskan urusan agama tidak tunduk pada kuasa asing. Pembukaan konstitusi India menyebut republik itu sekuler, sedangkan Pasal 25 memasukkan hak *menyiarkan* agama. Pasal 13 Taiwan hanya satu kalimat pendek.
+
+- [Brasil](https://id.aeiou.now/topic/religion-and-the-state/br/)
+- [Tiongkok](https://id.aeiou.now/topic/religion-and-the-state/cn/)
+- [Indonesia](https://id.aeiou.now/topic/religion-and-the-state/id/)
+- [India](https://id.aeiou.now/topic/religion-and-the-state/in/)
+- [Jepang](https://id.aeiou.now/topic/religion-and-the-state/jp/)
+- [Taiwan](https://id.aeiou.now/topic/religion-and-the-state/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/religion-and-the-state/us/)
+
+## Uang jaminan sewa dan kekuasaan pemilik rumah: berapa bulan, dan seberapa mudah menghentikan sewa
+
+https://id.aeiou.now/topic/renting-a-home/
+
+Undang-Undang Pengembangan dan Pengelolaan Pasar Sewa Perumahan Taiwan membatasi uang jaminan maksimal dua bulan sewa (Pasal 7), dan Pasal 10 mencantumkan lima alasan pemilik dapat mengakhiri sewa lebih awal — empat di antaranya perlu pemberitahuan tertulis tiga puluh hari sebelumnya, sedangkan pengambilalihan untuk pembangunan ulang perlu tiga bulan. Peraturan Sewa Perumahan Tiongkok (Peraturan Dewan Negara No. 812, berlaku sejak 15 September 2025) hanya mewajibkan besaran uang jaminan, waktu pengembalian, dan alasan pemotongan dicantumkan dalam kontrak — tanpa batas atas jumlahnya sama sekali. Pasal 622-2 KUH Perdata Jepang mewajibkan pemilik mengembalikan shikikin (uang jaminan) setelah sewa berakhir dan properti dikembalikan, dikurangi utang penyewa; Jepang juga punya kebiasaan reikin — uang terima kasih untuk pemilik yang biasanya tidak dikembalikan dan tidak diatur atau dibatasi oleh undang-undang mana pun — sementara Pasal 28 Undang-Undang Sewa Tanah dan Bangunan mewajibkan "alasan yang sah" sebelum pemilik dapat menolak perpanjangan atau mengakhiri sewa, sehingga penyewa tidak bisa begitu saja disuruh pergi. Amerika Serikat tidak punya aturan federal sama sekali — peran HUD terbatas pada anti-diskriminasi di bawah Fair Housing Act, dan batas uang jaminan ditetapkan oleh masing-masing negara bagian; Kode Sipil California §1950.5, setelah amendemen AB 12 yang berlaku Juli 2024, memangkas batas dari dua-tiga bulan menjadi satu bulan. Model Tenancy Act 2021 India hanyalah undang-undang contoh untuk diadopsi negara bagian — mengusulkan batas dua bulan untuk hunian dan enam bulan untuk komersial — tetapi sebagian besar negara bagian masih memakai Rent Control Act lama mereka sendiri. Hukum sewa Indonesia masih berpijak pada KUHPerdata peninggalan zaman Belanda (Pasal 1548 dan seterusnya); besaran uang jaminan sepenuhnya diserahkan pada kesepakatan, dan jika penyewa menolak pindah, pemilik tidak bisa mengusirnya sendiri — harus melalui proses pengadilan. Undang-Undang Sewa Brasil membatasi caução maksimal tiga bulan sewa dan wajib disimpan di rekening tabungan (Pasal 38), sementara Pasal 46 memungkinkan pemilik mengambil kembali properti tanpa alasan setelah kontrak berdurasi tiga puluh bulan atau lebih berakhir.
+
+- [Brasil](https://id.aeiou.now/topic/renting-a-home/br/)
+- [Tiongkok](https://id.aeiou.now/topic/renting-a-home/cn/)
+- [Indonesia](https://id.aeiou.now/topic/renting-a-home/id/)
+- [India](https://id.aeiou.now/topic/renting-a-home/in/)
+- [Jepang](https://id.aeiou.now/topic/renting-a-home/jp/)
+- [Taiwan](https://id.aeiou.now/topic/renting-a-home/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/renting-a-home/us/)
+
+## Berapa hari batas waktu mengurus izin tinggal — dan apakah pindah alamat atau ganti pekerjaan wajib dilaporkan
+
+https://id.aeiou.now/topic/residency-and-visas/
+
+Alien Resident Certificate (ARC) Taiwan, yang diterbitkan oleh National Immigration Agency, wajib diurus dalam 30 hari sejak kedatangan, dan perubahan alamat juga wajib dilaporkan dalam 30 hari yang sama — terlambat, Immigration Act menetapkan denda NT$2.000–10.000. Residence Card Jepang punya batas waktu lebih ketat: 14 hari, baik untuk pendaftaran alamat pertama kali maupun melaporkan perubahan pemberi kerja, keduanya ditetapkan oleh Immigration Control Act. Tiongkok daratan memberi 10 hari untuk perubahan data pada izin tinggal terdaftar (UU Administrasi Keluar-Masuk, Pasal 33), dan hanya 24 jam untuk menginap di luar hotel (Pasal 39). Amerika Serikat sama sekali tidak punya kantor pendaftaran tinggal nasional, tetapi perubahan alamat warga asing terdaftar tetap terikat hukum federal — 8 U.S.C. § 1305 — dengan batas waktu 10 hari yang sama, secara tertulis. India berjalan berdasarkan kategori visa, bukan satu kartu tinggal tunggal — visa Kerja atau Pelajar yang berlaku lebih dari 180 hari wajib didaftarkan ke FRRO dalam 14 hari sejak kedatangan. Indonesia membatasi perubahan alamat maksimal 14 hari, dengan penjamin turut bertanggung jawab melaporkannya. Brasil paling longgar: pemegang visa sementara punya 90 hari untuk mendaftar ke Polícia Federal. Soal apakah izin kerja dan izin tinggal adalah dokumen yang sama, ketujuh negara terbagi dua: Taiwan, Tiongkok, dan Indonesia menerbitkan dua dokumen dari dua instansi; Jepang membangun hak bekerja langsung ke dalam status tinggal itu sendiri; dan di Amerika Serikat, Green Card sendiri sudah menjadi bukti izin kerja.
+
+- [Brasil](https://id.aeiou.now/topic/residency-and-visas/br/)
+- [Tiongkok](https://id.aeiou.now/topic/residency-and-visas/cn/)
+- [Indonesia](https://id.aeiou.now/topic/residency-and-visas/id/)
+- [India](https://id.aeiou.now/topic/residency-and-visas/in/)
+- [Jepang](https://id.aeiou.now/topic/residency-and-visas/jp/)
+- [Taiwan](https://id.aeiou.now/topic/residency-and-visas/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/residency-and-visas/us/)
+
+## Festival Belanja
+
+https://id.aeiou.now/topic/shopping-festivals/
+
+Festival belanja adalah satu-satunya jenis perayaan yang diciptakan sendiri oleh dunia ritel, lalu negara menyusul dengan aturan. Undang-undang federal Amerika Serikat mengenal Thanksgiving, tetapi tidak pernah mengenal Black Friday. Regulator pasar Tiongkok mengirim surat kepada para lokapasar setiap tahun dan mengunci harga acuan diskon pada harga transaksi terendah tujuh hari sebelumnya. Harbolnas di Indonesia membawa nama Kementerian Perdagangan, dan menterinya sendiri berjualan lewat siaran langsung. India tidak mengatur diskonnya, melainkan layarnya. Membeli barang yang sama pada hari yang sama, jawaban atas "boleh dikembalikan atau tidak, berapa hari, dan siapa yang menanggung ongkos kirim" berbeda di setiap pasar.
+
+- [Brasil](https://id.aeiou.now/topic/shopping-festivals/br/)
+- [Tiongkok](https://id.aeiou.now/topic/shopping-festivals/cn/)
+- [Indonesia](https://id.aeiou.now/topic/shopping-festivals/id/)
+- [India](https://id.aeiou.now/topic/shopping-festivals/in/)
+- [Jepang](https://id.aeiou.now/topic/shopping-festivals/jp/)
+- [Taiwan](https://id.aeiou.now/topic/shopping-festivals/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/shopping-festivals/us/)
+
+## Tanabata dan Qixi
+
+https://id.aeiou.now/topic/tanabata-and-qixi/
+
+Satu legenda tentang gadis penenun dan penggembala, satu tanggal pada hari ketujuh bulan ketujuh penanggalan lunisolar — dan tiga masyarakat yang membuat tiga perayaan berbeda darinya. Taiwan mempertahankannya pada tanggal lunar dan menumpuk dua hal pada hari yang sama: malam bagi pasangan, dan ritus kedewasaan di Tainan. Tiongkok mendaftarkannya sebagai warisan budaya takbenda nasional, tetapi tidak memasukkannya bahkan ke daftar hari yang secara tegas disebut tanpa libur. Jepang memindahkannya ke 7 Juli saat negara itu berganti kalender pada 1873, sedangkan Sendai menggesernya sebulan ke 6–8 Agustus. Halaman ini membandingkan letak hari itu dalam aturan, siapa yang libur, dan bagian mana dari kisahnya yang bertahan.
+
+- [Tiongkok](https://id.aeiou.now/topic/tanabata-and-qixi/cn/)
+- [Jepang](https://id.aeiou.now/topic/tanabata-and-qixi/jp/)
+- [Taiwan](https://id.aeiou.now/topic/tanabata-and-qixi/tw/)
+- [Brasil](https://id.aeiou.now/topic/tanabata-and-qixi/br/)
+- [Indonesia](https://id.aeiou.now/topic/tanabata-and-qixi/id/)
+- [India](https://id.aeiou.now/topic/tanabata-and-qixi/in/)
+- [Amerika Serikat](https://id.aeiou.now/topic/tanabata-and-qixi/us/)
+
+## Hari Guru
+
+https://id.aeiou.now/topic/teachers-day/
+
+Tujuh tempat menempatkan Hari Guru pada tujuh tanggal berbeda, dan alasan memilih tanggalnya sama sekali tidak sejenis: Taiwan memakai hari lahir Konfusius, Tiongkok daratan menetapkannya lewat keputusan lembaga legislatif nasional pada 10 September, India memakai hari lahir presiden keduanya yang seorang guru besar filsafat, Brasil menelusurinya ke maklumat persekolahan 1827, Indonesia memakai hari berdirinya organisasi gurunya, Singapura mengikuti kalender sekolah pada awal September, dan Amerika Serikat mengubahnya menjadi satu pekan penuh pada Mei. Hanya di Taiwan hari itu libur.
+
+- [Brasil](https://id.aeiou.now/topic/teachers-day/br/)
+- [Tiongkok](https://id.aeiou.now/topic/teachers-day/cn/)
+- [Indonesia](https://id.aeiou.now/topic/teachers-day/id/)
+- [India](https://id.aeiou.now/topic/teachers-day/in/)
+- [Singapura](https://id.aeiou.now/topic/teachers-day/sg/)
+- [Taiwan](https://id.aeiou.now/topic/teachers-day/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/teachers-day/us/)
+- [Jepang](https://id.aeiou.now/topic/teachers-day/jp/)
+
+## Apa yang diminta pemilu dari seorang pemilih, negara demi negara
+
+https://id.aeiou.now/topic/voting-and-elections/
+
+Pasal 14 konstitusi Brasil menjadikan memilih sebagai kewajiban bagi warga berusia delapan belas sampai tujuh puluh tahun, dan ketidakhadiran harus dipertanggungjawabkan. Pasal 17 Undang-Undang Pemilihan dan Pemberhentian Pejabat Publik Taiwan mengharuskan orang memilih di TPS sesuai domisili kependudukannya — tidak ada surat suara jarak jauh, sehingga hari pemungutan suara menjadi kepulangan sepulau. Konstitusi Tiongkok menyimpan pemilihan langsung hanya sampai tingkat kabupaten dan kecamatan. Di Amerika Serikat, undang-undang federal menetapkan hari pemilu pada Selasa setelah Senin pertama November — dan hari itu bukan hari libur.
+
+- [Brasil](https://id.aeiou.now/topic/voting-and-elections/br/)
+- [Tiongkok](https://id.aeiou.now/topic/voting-and-elections/cn/)
+- [Indonesia](https://id.aeiou.now/topic/voting-and-elections/id/)
+- [India](https://id.aeiou.now/topic/voting-and-elections/in/)
+- [Jepang](https://id.aeiou.now/topic/voting-and-elections/jp/)
+- [Taiwan](https://id.aeiou.now/topic/voting-and-elections/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/voting-and-elections/us/)
+
+## Gugur dalam perang dan para veteran
+
+https://id.aeiou.now/topic/war-dead-and-veterans/
+
+Amerika Serikat memisahkan yang gugur dari yang selamat menjadi dua hari libur federal: Memorial Day pada bulan Mei untuk mereka yang tewas, dan Veterans Day pada 11 November untuk mereka yang pulang. Enam negara lainnya umumnya hanya menetapkan satu hari, dan hari itu umumnya bukan hari libur — di Taiwan kementerian pertahanan yang memutuskan siapa yang libur, 15 Agustus di Jepang bersandar pada keputusan kabinet dan bukan undang-undang, sedangkan Hari Pahlawan Indonesia justru dimasukkan keputusan presiden ke dalam golongan "hari nasional yang bukan hari libur".
+
+- [Brasil](https://id.aeiou.now/topic/war-dead-and-veterans/br/)
+- [Tiongkok](https://id.aeiou.now/topic/war-dead-and-veterans/cn/)
+- [Indonesia](https://id.aeiou.now/topic/war-dead-and-veterans/id/)
+- [India](https://id.aeiou.now/topic/war-dead-and-veterans/in/)
+- [Jepang](https://id.aeiou.now/topic/war-dead-and-veterans/jp/)
+- [Taiwan](https://id.aeiou.now/topic/war-dead-and-veterans/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/war-dead-and-veterans/us/)
+
+## Pernikahan dan Adat Perkawinan
+
+https://id.aeiou.now/topic/weddings-and-customs/
+
+Jalan hukum menuju perkawinan berbeda menurut tempat. Taiwan mensyaratkan pendaftaran di kantor rumah tangga agar perkawinan berlaku; Jepang menganggap perkawinan terbentuk ketika formulir diterima; Brasil berpusat pada pencatatan sipil; Indonesia biasanya menggabungkan upacara agama dan pendaftaran negara; India memiliki jalur hukum personal komunitas dan Special Marriage Act; Tiongkok daratan menetapkan usia minimum 22 tahun untuk laki-laki dan 20 untuk perempuan; Amerika Serikat menyerahkan izin nikah kepada negara bagian. Pendaftaran, upacara, dan pesta dapat berlangsung pada hari yang berbeda. Halaman ini memisahkan perkawinan legal dari perayaan dan kemudian membandingkan keluarga, pakaian, makanan, dan adat.
+
+- [Brasil](https://id.aeiou.now/topic/weddings-and-customs/br/)
+- [Tiongkok](https://id.aeiou.now/topic/weddings-and-customs/cn/)
+- [Indonesia](https://id.aeiou.now/topic/weddings-and-customs/id/)
+- [India](https://id.aeiou.now/topic/weddings-and-customs/in/)
+- [Jepang](https://id.aeiou.now/topic/weddings-and-customs/jp/)
+- [Taiwan](https://id.aeiou.now/topic/weddings-and-customs/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/weddings-and-customs/us/)
+
+## Hari Perempuan Internasional
+
+https://id.aeiou.now/topic/womens-day/
+
+8 Maret jatuh pada tanggal yang sama di tujuh tempat yang dibandingkan di sini, tetapi diperlakukan sangat berbeda oleh setiap sistem hukum. Tiongkok memberi perempuan cuti setengah hari berbayar, tertulis dalam peraturan libur Dewan Negara. Taiwan mencantumkannya sebagai "hari raya" namun undang-undangnya menyatakan dengan tegas bahwa hari itu bukan hari libur. Amerika Serikat sama sekali tidak memakai tanggal tunggal itu dan menetapkan seluruh bulan Maret sebagai Bulan Sejarah Perempuan. Brasil paling khas: hari perempuan nasionalnya berada pada 30 April sampai undang-undang 2025 memindahkannya ke 8 Maret. Halaman ini tidak menimbang siapa yang lebih menghargai perempuan, melainkan sejauh mana setiap sistem mengakui tanggal yang sama.
+
+- [Brasil](https://id.aeiou.now/topic/womens-day/br/)
+- [Tiongkok](https://id.aeiou.now/topic/womens-day/cn/)
+- [Indonesia](https://id.aeiou.now/topic/womens-day/id/)
+- [India](https://id.aeiou.now/topic/womens-day/in/)
+- [Jepang](https://id.aeiou.now/topic/womens-day/jp/)
+- [Taiwan](https://id.aeiou.now/topic/womens-day/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/womens-day/us/)
+
+## Bonus Akhir Tahun dan Gaji Ketiga Belas
+
+https://id.aeiou.now/topic/year-end-bonus/
+
+Bonus akhir tahun Taiwan bersandar pada Pasal 29 Undang-Undang Standar Ketenagakerjaan, yang hanya berlaku bila tahun usaha ditutup dengan surplus — sebuah syarat, tanpa tenggat dan tanpa sanksi, sehingga besarannya ditentukan perusahaan. Brasil justru sebaliknya: gaji ketiga belas telah menjadi kewajiban hukum sejak 1962, angsuran pertama paling lambat 30 November dan kedua 20 Desember, dengan denda bila terlambat. THR Indonesia wajib dibayar penuh tujuh hari sebelum hari raya keagamaan, tidak boleh dicicil, dengan denda 5 persen bila telat. Gagasan yang sama — uang tambahan setahun sekali — merentang dari kewajiban hukum sampai kebiasaan murni di ketujuh pasar, dan itulah yang menentukan apakah orang bisa mengandalkannya.
+
+- [Brasil](https://id.aeiou.now/topic/year-end-bonus/br/)
+- [Tiongkok](https://id.aeiou.now/topic/year-end-bonus/cn/)
+- [Indonesia](https://id.aeiou.now/topic/year-end-bonus/id/)
+- [India](https://id.aeiou.now/topic/year-end-bonus/in/)
+- [Jepang](https://id.aeiou.now/topic/year-end-bonus/jp/)
+- [Taiwan](https://id.aeiou.now/topic/year-end-bonus/tw/)
+- [Amerika Serikat](https://id.aeiou.now/topic/year-end-bonus/us/)
